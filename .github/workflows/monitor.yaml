@@ -1,4 +1,4 @@
-name: hola
+name: monitor
 
 on:
     schedule:
@@ -23,7 +23,6 @@ jobs:
         run: |
            GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
            GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
-           GO111MODULE=on go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
            GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
         shell: bash
 
@@ -40,12 +39,11 @@ jobs:
       - name: Create local changes
         run: |
           git add output/all
-          git add output/active_subdomains.txt
 
       - name: Commit results to Github
         run: |
           git config --local user.email "tester@tester.com"
-          git config --global user.name "hola"
+          git config --global user.name "monitor"
           git commit -m "PD-Actions report" -a --allow-empty
 
       - name: Push changes

@@ -24,6 +24,7 @@ jobs:
            GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
            GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
            GO111MODULE=on go get -u github.com/tomnomnom/anew
+           GO111MODULE=on go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
            GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
         shell: bash
 
@@ -31,6 +32,7 @@ jobs:
         run: |
           subfinder -d hubstaff.com | httpx -no-fallback -retries 5 > output/new
           cat output/new | anew output/all > output/added-subdomains.txt
+          cat output/added-subdomains.txt | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
         shell: bash
 
       - name: Create local changes
@@ -49,3 +51,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Checks for Sidekiq
+        run: |
+          nuclei -l output/all -t ~/nuclei-templates/exposed-panels -retries 5 -nc  | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
+ 
+
+    

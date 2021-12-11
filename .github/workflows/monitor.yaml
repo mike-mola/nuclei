@@ -1,0 +1,55 @@
+name: hola
+
+on:
+    schedule:
+      - cron: '0 0 * * *'
+    workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+
+      - name: Setup golang
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+      - name: Setup Dependencies
+        run: sudo apt-get install libpcap-dev
+
+      - name: Installing Most the tools 
+        run: |
+           GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+           GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+           GO111MODULE=on go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
+           GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
+        shell: bash
+
+      - name: Downloading Nuclei Templates
+        run: |
+          nuclei -update-templates
+        shell: bash
+
+      - name: Subdomains 
+        run: |
+          subfinder -d hubstaff.com | httpx -no-fallback -retries 5 >> output/all
+        shell: bash
+
+      - name: Create local changes
+        run: |
+          git add output/all
+          git add output/active_subdomains.txt
+
+      - name: Commit results to Github
+        run: |
+          git config --local user.email "tester@tester.com"
+          git config --global user.name "hola"
+          git commit -m "PD-Actions report" -a --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

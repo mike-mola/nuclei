@@ -23,17 +23,20 @@ jobs:
         run: |
            GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
            GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+           GO111MODULE=on go get -u github.com/tomnomnom/anew
            GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
         shell: bash
 
       - name: Subdomains 
         run: |
-          subfinder -d hubstaff.com | httpx -no-fallback -retries 5 >> output/all
+          subfinder -d hubstaff.com | httpx -no-fallback -retries 5 > output/new
+          cat output/new | anew output/all
         shell: bash
 
       - name: Create local changes
         run: |
           git add output/all
+          git add output/new
 
       - name: Commit results to Github
         run: |

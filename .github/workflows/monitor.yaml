@@ -30,7 +30,7 @@ jobs:
 
       - name: Subdomains 
         run: |
-          subfinder -d hubstaff.com | httpx -no-fallback -retries 5 > output/new
+          subfinder -dL hosts.txt  -all | httpx -no-fallback -retries 5 > output/new
           cat output/new | anew output/all > output/added-subdomains.txt
           cat output/added-subdomains.txt | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
         shell: bash

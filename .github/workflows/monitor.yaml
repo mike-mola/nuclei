@@ -26,11 +26,6 @@ jobs:
            GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
         shell: bash
 
-      - name: Downloading Nuclei Templates
-        run: |
-          nuclei -update-templates
-        shell: bash
-
       - name: Subdomains 
         run: |
           subfinder -d hubstaff.com | httpx -no-fallback -retries 5 >> output/all

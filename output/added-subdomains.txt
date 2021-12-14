@@ -1,0 +1,12 @@
+http://bugs.shopifycloud.com
+https://bugs.shopifycloud.com
+http://gnagy-test-app-production-unrest-2jjw6zkb-apps-b-us-central1-10.shopifycloud.com
+https://gnagy-test-app-production-unrest-2jjw6zkb-apps-b-us-central1-10.shopifycloud.com
+https://insights-cohorts.streamlit-service.shopifycloud.com
+http://insights-cohorts.streamlit-service.shopifycloud.com
+https://sms-manager-production-unrestric-dewdekqh-apps-a-us-central1-10.shopifycloud.com
+http://sms-manager-production-unrestric-dewdekqh-apps-a-us-central1-10.shopifycloud.com
+https://tempo-staging-tempo-us-east1.shopifycloud.com
+http://tempo-staging-tempo-us-east1.shopifycloud.com
+http://trino-conductor-web-production-u-xzjsbag2-apps-b-us-central1-10.shopifycloud.com
+https://trino-conductor-web-production-u-xzjsbag2-apps-b-us-central1-10.shopifycloud.com

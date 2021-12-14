@@ -34,5 +34,5 @@ jobs:
 
       - name: Running VA with Hola
         run: |
-          subfinder -dL hosts.txt | httpx | nuclei -stats -s low,medium,high,critical -c 50 -rl 300 -nc | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
+          subfinder -dL hosts.txt | httpx | nuclei -stats -s low,medium,high,critical -c 50 -rl 300 -nc | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
         shell: bash

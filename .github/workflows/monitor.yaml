@@ -32,7 +32,7 @@ jobs:
         run: |
           subfinder -dL hosts.txt  -all | httpx -no-fallback -retries 5 > output/new
           cat output/new | anew output/all > output/added-subdomains.txt
-          cat output/added-subdomains.txt | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
+          cat output/added-subdomains.txt | notify -slack -slack-webhook-url ${{ secrets.SLACK_TOKEN }}
         shell: bash
 
       - name: Create local changes
@@ -54,7 +54,7 @@ jobs:
 
       - name: Checks for Sidekiq
         run: |
-          nuclei -l output/all -t ~/nuclei-templates/exposed-panels -retries 5 -nc  | notify -slack -slack-webhook-url "https://hooks.slack.com/services/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"
+          nuclei -l output/all -t ~/nuclei-templates/exposed-panels -retries 5 -nc  | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
  
 
     

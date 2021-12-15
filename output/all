@@ -5030,3 +5030,7 @@ http://app-test-es7-kibana.shopifycloud.com
 http://app-test-es7-elasticsearch.shopifycloud.com
 http://cert-manager-deploy-productio-hxkkwenk-es-staging-us-central1-1.shopifycloud.com
 http://cert-manager-deploy-productio-zzypizpk-es-staging-us-central1-1.shopifycloud.com
+https://cloud-portal-production-web-ping-tier1-us-east1-8.shopifycloud.com
+https://cloud-portal-tier1-us-east1-8.shopifycloud.com
+http://startup-task-editor.shopifycloud.com
+https://startup-task-editor.shopifycloud.com

@@ -1,4 +1,0 @@
-http://app-test-es7-kibana.shopifycloud.com
-http://app-test-es7-elasticsearch.shopifycloud.com
-http://cert-manager-deploy-productio-hxkkwenk-es-staging-us-central1-1.shopifycloud.com
-http://cert-manager-deploy-productio-zzypizpk-es-staging-us-central1-1.shopifycloud.com

@@ -1,4 +1,0 @@
-http://apostolis-test-runtimes.shopifycloud.com
-https://apostolis-test-runtimes.shopifycloud.com
-http://website-fe-staging.shopifycloud.com
-https://website-fe-staging.shopifycloud.com

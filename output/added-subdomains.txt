@@ -1,6 +1,0 @@
-https://dev-success-2022-onboarding.shopifycloud.com
-http://dev-success-2022-onboarding.shopifycloud.com
-https://elasticsearch-failover-dev-sta-ee5azcx4-es-apps-b-us-central1-2.shopifycloud.com
-http://elasticsearch-failover-dev-sta-ee5azcx4-es-apps-b-us-central1-2.shopifycloud.com
-http://linkpop-web.shopifycloud.com
-https://linkpop-web.shopifycloud.com

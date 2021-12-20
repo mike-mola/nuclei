@@ -1,0 +1,8 @@
+http://cloud-portal-core-us-central1-tf27.shopifycloud.com
+https://cloud-portal-core-us-central1-tf27.shopifycloud.com
+https://edge-cache-service-production-unres-gnqco3cc-apps-a-us-east1-10.shopifycloud.com
+http://edge-cache-service-production-unres-gnqco3cc-apps-a-us-east1-10.shopifycloud.com
+http://edge-cache-service.shopifycloud.com
+https://edge-cache-service.shopifycloud.com
+http://sfn-ds-intake-bot.shopifycloud.com
+https://sfn-ds-intake-bot.shopifycloud.com

@@ -1,0 +1,2 @@
+http://disco-server-staging.shopifycloud.com
+https://disco-server-staging.shopifycloud.com

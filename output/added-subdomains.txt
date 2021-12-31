@@ -1,0 +1,3 @@
+http://abhin-test.shopifycloud.com
+https://abhin-test.shopifycloud.com
+https://reportify-query-production-query-tier1-us-central1-6.shopifycloud.com

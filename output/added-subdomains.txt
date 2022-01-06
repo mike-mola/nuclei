@@ -1,2 +1,0 @@
-http://statsd-proxy-python-prototype.shopifycloud.com
-https://statsd-proxy-python-prototype.shopifycloud.com

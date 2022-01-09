@@ -1,0 +1,2 @@
+https://dcampos-h2-playground.shopifycloud.com
+http://dcampos-h2-playground.shopifycloud.com

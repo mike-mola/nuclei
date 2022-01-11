@@ -1,6 +1,0 @@
-http://prometheus-us-east1-1.shopifycloud.com
-https://prometheus-us-east1-1.shopifycloud.com
-https://runtime-compiler-production-unrestr-4z6ho6ng-apps-b-us-east1-10.shopifycloud.com
-http://runtime-compiler-production-unrestr-4z6ho6ng-apps-b-us-east1-10.shopifycloud.com
-https://xi4tw.kibana.shopifycloud.com
-http://xi4tw.kibana.shopifycloud.com

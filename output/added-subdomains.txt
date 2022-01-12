@@ -1,0 +1,10 @@
+http://app-test-es7.secure-elasticsearch.vivian.shopifycloud.com
+http://app-test-es7.kibana.vivian.shopifycloud.com
+https://app-test-es7.kibana.vivian.shopifycloud.com
+https://app-test-es7.secure-elasticsearch.vivian.shopifycloud.com
+http://askify-experiment.shopifycloud.com
+https://askify-experiment.shopifycloud.com
+https://iye35.kibana.shopifycloud.com
+http://iye35.kibana.shopifycloud.com
+http://xray.shopifycloud.com
+https://xray.shopifycloud.com

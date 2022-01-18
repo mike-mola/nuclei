@@ -1,0 +1,6 @@
+http://beaker-view.streamlit-service.shopifycloud.com
+https://beaker-view.streamlit-service.shopifycloud.com
+http://cert-provisioner-staging.shopifycloud.com
+https://cert-provisioner-staging.shopifycloud.com
+https://doer7.kibana.shopifycloud.com
+http://doer7.kibana.shopifycloud.com

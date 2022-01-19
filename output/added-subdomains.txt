@@ -1,4 +1,4 @@
-http://elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com
-https://elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com
-https://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.shopifycloud.com
-http://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.shopifycloud.com
+https://shop-email-proxy.shopifycloud.com
+http://shop-email-proxy.shopifycloud.com
+https://shopify-monitoring.shopifycloud.com
+http://shopify-monitoring.shopifycloud.com

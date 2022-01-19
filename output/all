@@ -5288,3 +5288,7 @@ http://chris-shino-fluffy-go.shopifycloud.com
 https://chris-shino-fluffy-go.shopifycloud.com
 http://kibana-auth-proxy-staging.secure-elasticsearch.kibana-auth-proxy-staging.shopifycloud.com
 https://kibana-auth-proxy-staging.secure-elasticsearch.kibana-auth-proxy-staging.shopifycloud.com
+http://elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com
+https://elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.shopifycloud.com

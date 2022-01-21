@@ -1,0 +1,59 @@
+name: httpx
+
+on:
+    schedule:
+      - cron: '0 */6 * * *'
+    workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+
+      - name: Setup golang
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+      - name: Setup Dependencies
+        run: sudo apt-get install libpcap-dev
+
+      - name: Installing Most the tools 
+        run: |
+           GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+           GO111MODULE=on go get -u github.com/tomnomnom/assetfinder
+           GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+           GO111MODULE=on go get -u github.com/tomnomnom/anew
+           GO111MODULE=on go get -v github.com/projectdiscovery/notify/cmd/notify@v0.0.2
+        shell: bash
+
+      - name: Subdomains 
+        run: |
+          subfinder -dL hosts.txt  -all | assetfinder -subs-only | httpx -no-fallback -retries 5 > output/new
+          cat output/new | anew output/all > output/added-subdomains.txt
+        shell: bash
+
+      - name: Create local changes
+        run: |
+          git add output/all
+          git add output/added-subdomains.txt
+
+      - name: Commit results to Github
+        run: |
+          git config --local user.email "tester@tester.com"
+          git config --global user.name "monitor"
+          git commit -m "PD-Actions report" -a --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Checks for Sidekiq
+        run: |
+          httpx -l output/all -status-code  -title -path /sidekiq -mc 200 -content-length -random-agent -retries 3 | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
+ 
+
+    

@@ -1,0 +1,2 @@
+http://cloud-test-app-67-test-tierstaging-us-east1-5.shopifycloud.com
+https://cloud-test-app-67-test-tierstaging-us-east1-5.shopifycloud.com

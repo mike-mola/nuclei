@@ -5334,3 +5334,5 @@ http://cloud-test-app-67-test-tierstaging-us-east1-5.shopifycloud.com
 https://cloud-test-app-67-test-tierstaging-us-east1-5.shopifycloud.com
 http://thanos-query-prometheus-asia-southeast1-1.shopifycloud.com
 https://thanos-query-prometheus-asia-southeast1-1.shopifycloud.com
+http://elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com
+https://elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com

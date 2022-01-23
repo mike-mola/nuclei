@@ -1,0 +1,2 @@
+http://elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com
+https://elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com

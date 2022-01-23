@@ -1,2 +1,0 @@
-http://thanos-query-prometheus-asia-southeast1-1.shopifycloud.com
-https://thanos-query-prometheus-asia-southeast1-1.shopifycloud.com

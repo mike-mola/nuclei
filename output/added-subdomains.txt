@@ -1,4 +1,0 @@
-https://hush-staging.shopifycloud.com
-http://hush-staging.shopifycloud.com
-http://hush-staging-unrestricted-i3o6-web-nginx-apps-b-us-central1-10.shopifycloud.com
-https://hush-staging-unrestricted-i3o6-web-nginx-apps-b-us-central1-10.shopifycloud.com

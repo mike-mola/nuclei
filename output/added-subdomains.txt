@@ -1,0 +1,2 @@
+http://merchant-setup-dashboard.shopifycloud.com
+https://merchant-setup-dashboard.shopifycloud.com

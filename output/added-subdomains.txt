@@ -1,2 +1,8 @@
-http://merchant-setup-dashboard.shopifycloud.com
-https://merchant-setup-dashboard.shopifycloud.com
+http://chris-shino-busybox.shopifycloud.com
+https://chris-shino-busybox.shopifycloud.com
+https://lmlb5.kibana.shopifycloud.com
+http://lmlb5.kibana.shopifycloud.com
+https://safe-delete-test-app-staging.shopifycloud.com
+http://safe-delete-test-app-staging.shopifycloud.com
+https://sfn-webhooks-staging-unrestricted-m4qwqewp-es-apps-b-us-east1-1.shopifycloud.com
+http://sfn-webhooks-staging-unrestricted-m4qwqewp-es-apps-b-us-east1-1.shopifycloud.com

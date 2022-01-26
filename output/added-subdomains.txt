@@ -1,2 +1,4 @@
-http://trust-rules-engine-staging.shopifycloud.com
-https://trust-rules-engine-staging.shopifycloud.com
+http://linkpop-staging-1dg7.shopifycloud.com
+https://linkpop-staging-1dg7.shopifycloud.com
+https://shopify-monitoring-sandbox.shopifycloud.com
+http://shopify-monitoring-sandbox.shopifycloud.com

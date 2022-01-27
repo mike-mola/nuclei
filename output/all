@@ -5434,3 +5434,8 @@ http://alertmanager-prometheus-us-east1-1.shopifycloud.com
 https://alertmanager-prometheus-us-east1-1.shopifycloud.com
 http://amcbf.kibana.shopifycloud.com
 https://amcbf.kibana.shopifycloud.com
+http://data-pepto-us-central1-1.shopifycloud.com
+http://groundcontrol-production-web-data-pepto-us-central1-1.shopifycloud.com
+http://pepto-infrastructure-producti-sgmofr64-data-pepto-us-central1-1.shopifycloud.com
+http://shopify-monitoring-sandbox-grpc.shopifycloud.com
+https://shopify-monitoring-sandbox-grpc.shopifycloud.com

@@ -1,4 +1,4 @@
-http://linkpop-staging-1dg7.shopifycloud.com
-https://linkpop-staging-1dg7.shopifycloud.com
-https://shopify-monitoring-sandbox.shopifycloud.com
-http://shopify-monitoring-sandbox.shopifycloud.com
+http://alertmanager-prometheus-us-east1-1.shopifycloud.com
+https://alertmanager-prometheus-us-east1-1.shopifycloud.com
+http://amcbf.kibana.shopifycloud.com
+https://amcbf.kibana.shopifycloud.com

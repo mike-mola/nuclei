@@ -1,2 +1,2 @@
-http://james-es-2.secure-elasticsearch.james-2022.shopifycloud.com
-https://james-es-2.secure-elasticsearch.james-2022.shopifycloud.com
+http://alertmanager-prometheus-asia-southeast1-1.shopifycloud.com
+https://alertmanager-prometheus-asia-southeast1-1.shopifycloud.com

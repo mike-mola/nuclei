@@ -1,2 +1,4 @@
-http://alertmanager-prometheus-asia-southeast1-1.shopifycloud.com
-https://alertmanager-prometheus-asia-southeast1-1.shopifycloud.com
+https://conductor-api.shopifycloud.com
+http://conductor-api.shopifycloud.com
+http://pepto-connector-manager-staging.shopifycloud.com
+https://pepto-connector-manager-staging.shopifycloud.com

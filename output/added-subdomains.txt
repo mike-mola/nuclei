@@ -1,0 +1,3 @@
+http://email-insights-by-funnel.streamlit-service.shopifycloud.com
+https://email-insights-by-funnel.streamlit-service.shopifycloud.com
+https://kt-cloud-test.shopifycloud.com

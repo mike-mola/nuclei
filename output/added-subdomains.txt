@@ -1,4 +1,0 @@
-http://data-observatory.shopifycloud.com
-https://data-observatory.shopifycloud.com
-http://simple-waf-experiment.shopifycloud.com
-https://simple-waf-experiment.shopifycloud.com

@@ -1,0 +1,2 @@
+http://shopify-audiences-staging.shopifycloud.com
+https://shopify-audiences-staging.shopifycloud.com

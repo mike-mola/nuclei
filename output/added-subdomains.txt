@@ -1,2 +1,6 @@
-http://shopify-audiences-staging.shopifycloud.com
-https://shopify-audiences-staging.shopifycloud.com
+http://finance-model-adjuster.streamlit-service.shopifycloud.com
+https://finance-model-adjuster.streamlit-service.shopifycloud.com
+http://merchant-setup-dashboard-production--hxjc3biy-apps-b-us-east1-7.shopifycloud.com
+https://merchant-setup-dashboard-production--hxjc3biy-apps-b-us-east1-7.shopifycloud.com
+http://schema-migrations-staging.shopifycloud.com
+https://schema-migrations-staging.shopifycloud.com

@@ -1,2 +1,2 @@
-http://streamlit-service-production-unre-3vveovhm-apps-b-us-central1-8.shopifycloud.com
-https://streamlit-service-production-unre-3vveovhm-apps-b-us-central1-8.shopifycloud.com
+https://shipit-sox-production.shopifycloud.com
+http://shipit-sox-production.shopifycloud.com

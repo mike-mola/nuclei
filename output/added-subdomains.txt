@@ -1,2 +1,0 @@
-https://shipit-sox-production.shopifycloud.com
-http://shipit-sox-production.shopifycloud.com

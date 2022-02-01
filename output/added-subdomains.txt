@@ -1,4 +1,4 @@
-http://mishsmelle-rails-test.shopifycloud.com
-https://mishsmelle-rails-test.shopifycloud.com
-http://monitoring-alertmanager-prometheus-sandbox-us-central1-1.shopifycloud.com
-https://monitoring-alertmanager-prometheus-sandbox-us-central1-1.shopifycloud.com
+http://test-app.secure-elasticsearch.test-app.shopifycloud.com
+https://test-app.secure-elasticsearch.test-app.shopifycloud.com
+https://vivian.secure-elasticsearch.vivian.shopifycloud.com
+http://vivian.secure-elasticsearch.vivian.shopifycloud.com

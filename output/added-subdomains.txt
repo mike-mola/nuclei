@@ -1,2 +1,0 @@
-http://elasticsearch-failover-dev-pro-vn5zt7cs-es-apps-a-us-central1-2.shopifycloud.com
-https://elasticsearch-failover-dev-pro-vn5zt7cs-es-apps-a-us-central1-2.shopifycloud.com

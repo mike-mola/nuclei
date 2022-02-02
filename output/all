@@ -5500,3 +5500,7 @@ https://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
 http://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
 http://fohcs.kibana.shopifycloud.com
 https://fohcs.kibana.shopifycloud.com
+http://reportify-query-performance.streamlit-service.shopifycloud.com
+https://reportify-query-performance.streamlit-service.shopifycloud.com
+http://shopify-monitoring-sh-rgg2gppn-prometheus-sandbox-us-central1-1.shopifycloud.com
+https://shopify-monitoring-sh-rgg2gppn-prometheus-sandbox-us-central1-1.shopifycloud.com

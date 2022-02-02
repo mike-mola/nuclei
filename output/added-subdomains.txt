@@ -1,4 +1,4 @@
-http://test-app.secure-elasticsearch.test-app.shopifycloud.com
-https://test-app.secure-elasticsearch.test-app.shopifycloud.com
-https://vivian.secure-elasticsearch.vivian.shopifycloud.com
-http://vivian.secure-elasticsearch.vivian.shopifycloud.com
+http://drinks-app-staging.shopifycloud.com
+https://drinks-app-staging.shopifycloud.com
+http://sfn-webhooks-production-unrestric-4it5durq-es-apps-a-us-east1-2.shopifycloud.com
+https://sfn-webhooks-production-unrestric-4it5durq-es-apps-a-us-east1-2.shopifycloud.com

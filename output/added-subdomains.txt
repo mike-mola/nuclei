@@ -1,4 +1,6 @@
-http://drinks-app-staging.shopifycloud.com
-https://drinks-app-staging.shopifycloud.com
-http://sfn-webhooks-production-unrestric-4it5durq-es-apps-a-us-east1-2.shopifycloud.com
-https://sfn-webhooks-production-unrestric-4it5durq-es-apps-a-us-east1-2.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.deep-tagging-similarity-jan2022-production-unrestricted-y586.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.deep-tagging-similarity-jan2022-production-unrestricted-y586.shopifycloud.com
+https://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
+http://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
+http://fohcs.kibana.shopifycloud.com
+https://fohcs.kibana.shopifycloud.com

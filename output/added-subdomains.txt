@@ -1,4 +1,2 @@
-http://reportify-query-performance.streamlit-service.shopifycloud.com
-https://reportify-query-performance.streamlit-service.shopifycloud.com
-http://shopify-monitoring-sh-rgg2gppn-prometheus-sandbox-us-central1-1.shopifycloud.com
-https://shopify-monitoring-sh-rgg2gppn-prometheus-sandbox-us-central1-1.shopifycloud.com
+http://jgv-test-app2.shopifycloud.com
+https://jgv-test-app2.shopifycloud.com

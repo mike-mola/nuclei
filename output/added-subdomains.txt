@@ -1,2 +1,2 @@
-http://jgv-test-app2.shopifycloud.com
-https://jgv-test-app2.shopifycloud.com
+https://compare-query-performance.streamlit-service.shopifycloud.com
+http://compare-query-performance.streamlit-service.shopifycloud.com

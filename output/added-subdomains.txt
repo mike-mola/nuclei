@@ -1,0 +1,2 @@
+http://single-query-performance.streamlit-service.shopifycloud.com
+https://single-query-performance.streamlit-service.shopifycloud.com

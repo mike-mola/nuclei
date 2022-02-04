@@ -1,4 +1,0 @@
-http://growth-pr-leaderboard.streamlit-service.shopifycloud.com
-https://growth-pr-leaderboard.streamlit-service.shopifycloud.com
-http://streamlit-service-production-unre-3pv3f3qb-apps-b-us-central1-8.shopifycloud.com
-https://streamlit-service-production-unre-3pv3f3qb-apps-b-us-central1-8.shopifycloud.com

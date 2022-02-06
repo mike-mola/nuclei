@@ -1,4 +1,0 @@
-https://cdc-staging.pepto-connector.shopifycloud.com
-http://cdc-staging.pepto-connector.shopifycloud.com
-http://flow-tracing-prototypes-production--hjurowln-apps-b-us-east1-10.shopifycloud.com
-https://flow-tracing-prototypes-production--hjurowln-apps-b-us-east1-10.shopifycloud.com

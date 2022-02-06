@@ -1,4 +1,0 @@
-http://curated-commerce-staging-unrestr-ktjyro4u-apps-b-us-central1-10.shopifycloud.com
-https://curated-commerce-staging-unrestr-ktjyro4u-apps-b-us-central1-10.shopifycloud.com
-http://streamlit-service-production-unre-4s24akjp-apps-b-us-central1-8.shopifycloud.com
-https://streamlit-service-production-unre-4s24akjp-apps-b-us-central1-8.shopifycloud.com

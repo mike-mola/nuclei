@@ -1,0 +1,4 @@
+https://curated-commerce-curator.shopifycloud.com
+http://curated-commerce-curator.shopifycloud.com
+http://shopinauts-staging.shopifycloud.com
+https://shopinauts-staging.shopifycloud.com

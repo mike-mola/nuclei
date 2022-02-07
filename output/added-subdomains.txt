@@ -1,4 +1,2 @@
-https://curated-commerce-curator.shopifycloud.com
-http://curated-commerce-curator.shopifycloud.com
-http://shopinauts-staging.shopifycloud.com
-https://shopinauts-staging.shopifycloud.com
+http://panama-admin-production-unrestricte-5ijutacz-apps-a-us-east1-11.shopifycloud.com
+https://panama-admin-production-unrestricte-5ijutacz-apps-a-us-east1-11.shopifycloud.com

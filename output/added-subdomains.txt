@@ -1,0 +1,2 @@
+http://monorail.pepto-connector.shopifycloud.com
+https://monorail.pepto-connector.shopifycloud.com

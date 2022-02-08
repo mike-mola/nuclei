@@ -1,0 +1,2 @@
+https://monorail-staging.pepto-connector.shopifycloud.com
+http://monorail-staging.pepto-connector.shopifycloud.com

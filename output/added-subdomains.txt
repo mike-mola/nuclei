@@ -1,4 +1,2 @@
-http://cloud-portal-apps-sandbox2-us-central1-2.shopifycloud.com
-https://cloud-portal-apps-sandbox2-us-central1-2.shopifycloud.com
-http://pairing-tournament.shopifycloud.com
-https://pairing-tournament.shopifycloud.com
+https://jamies-testing-rails.shopifycloud.com
+http://jamies-testing-rails.shopifycloud.com

@@ -1,2 +1,8 @@
-http://cloud-portal-management-staging-us-east1-4.shopifycloud.com
-https://cloud-portal-management-staging-us-east1-4.shopifycloud.com
+https://fvbri.kibana.shopifycloud.com
+http://fvbri.kibana.shopifycloud.com
+https://linkpop-staging-unrestricted-1dg7-public-app-apps-b-us-east1-8.shopifycloud.com
+http://linkpop-staging-unrestricted-1dg7-public-app-apps-b-us-east1-8.shopifycloud.com
+http://vivian-central.kibana.vivian.shopifycloud.com
+https://vivian-central.kibana.vivian.shopifycloud.com
+http://zntjb.kibana.shopifycloud.com
+https://zntjb.kibana.shopifycloud.com

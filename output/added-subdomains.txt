@@ -1,2 +1,0 @@
-https://jamies-testing-rails.shopifycloud.com
-http://jamies-testing-rails.shopifycloud.com

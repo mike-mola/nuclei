@@ -1,2 +1,0 @@
-http://test.staging.merlin.shopifycloud.com
-https://test.staging.merlin.shopifycloud.com

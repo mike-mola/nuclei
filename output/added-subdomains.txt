@@ -1,10 +1,6 @@
-http://cloud-portal-core-n1-us-ce1-ah46.shopifycloud.com
-https://cloud-portal-core-n1-us-ce1-ah46.shopifycloud.com
-https://finance-data-demo.streamlit-service.shopifycloud.com
-http://finance-data-demo.streamlit-service.shopifycloud.com
-https://morgan-morgan-esi--elasticsearch-es-staging-us-central1-3.shopifycloud.com
-http://morgan-morgan-esi--elasticsearch-es-staging-us-central1-3.shopifycloud.com
-https://tempo-staging-us-east1.shopifycloud.com
-http://tempo-staging-us-east1.shopifycloud.com
-http://thanos-query-prometheus-us-ce1-vu91.shopifycloud.com
-https://thanos-query-prometheus-us-ce1-vu91.shopifycloud.com
+http://mozart-pocs.shopifycloud.com
+https://mozart-pocs.shopifycloud.com
+http://prometheus-as-se1-rx92.shopifycloud.com
+https://prometheus-as-se1-rx92.shopifycloud.com
+https://prometheus-us-ce1-vu91.shopifycloud.com
+http://prometheus-us-ce1-vu91.shopifycloud.com

@@ -1,0 +1,2 @@
+https://prometheus-shopif-cqbxnol3-observability-prometheus-us-ce1-vu91.shopifycloud.com
+http://prometheus-shopif-cqbxnol3-observability-prometheus-us-ce1-vu91.shopifycloud.com

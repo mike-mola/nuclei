@@ -1,2 +1,2 @@
-https://dev-til.shopifycloud.com
-http://dev-til.shopifycloud.com
+https://storefront-search-production-usea-4vfmq5kr-es-apps-b-us-east1-1.shopifycloud.com
+http://storefront-search-production-usea-4vfmq5kr-es-apps-b-us-east1-1.shopifycloud.com

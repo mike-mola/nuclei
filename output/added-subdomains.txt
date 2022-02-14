@@ -1,2 +1,2 @@
-https://storefront-search-production-usea-4vfmq5kr-es-apps-b-us-east1-1.shopifycloud.com
-http://storefront-search-production-usea-4vfmq5kr-es-apps-b-us-east1-1.shopifycloud.com
+https://xiaoxi-test-runtimes.shopifycloud.com
+http://xiaoxi-test-runtimes.shopifycloud.com

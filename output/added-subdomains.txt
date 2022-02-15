@@ -1,0 +1,8 @@
+http://prometheus-us-we1-vn09.shopifycloud.com
+https://prometheus-shopif-sioz7dd3-observability-prometheus-as-se1-rx92.shopifycloud.com
+http://prometheus-shopif-sioz7dd3-observability-prometheus-as-se1-rx92.shopifycloud.com
+https://prometheus-us-we1-vn09.shopifycloud.com
+http://vivian-central-2.secure-elasticsearch.vivian.shopifycloud.com
+https://vivian-central-2.secure-elasticsearch.vivian.shopifycloud.com
+http://wy2c6.kibana.shopifycloud.com
+https://wy2c6.kibana.shopifycloud.com

@@ -1,6 +1,2 @@
-https://kalindu-test.shopifycloud.com
-http://kalindu-test.shopifycloud.com
-https://thanos-query-prometheus-us-we1-vn09.shopifycloud.com
-http://thanos-query-prometheus-us-we1-vn09.shopifycloud.com
-http://vivian-central-2.kibana.vivian.shopifycloud.com
-https://vivian-central-2.kibana.vivian.shopifycloud.com
+http://vivian-east.secure-elasticsearch.vivian.shopifycloud.com
+https://vivian-east.secure-elasticsearch.vivian.shopifycloud.com

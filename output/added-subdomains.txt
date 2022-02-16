@@ -1,0 +1,2 @@
+https://cdc-connector-operations-db-manager-ddg2uoga-apps-b-us-east1-10.shopifycloud.com
+http://cdc-connector-operations-db-manager-ddg2uoga-apps-b-us-east1-10.shopifycloud.com

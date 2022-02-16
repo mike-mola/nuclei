@@ -1,2 +1,2 @@
-https://cdc-connector-operations-db-manager-ddg2uoga-apps-b-us-east1-10.shopifycloud.com
-http://cdc-connector-operations-db-manager-ddg2uoga-apps-b-us-east1-10.shopifycloud.com
+http://prometheus-us-ce1-eb98.shopifycloud.com
+https://prometheus-us-ce1-eb98.shopifycloud.com

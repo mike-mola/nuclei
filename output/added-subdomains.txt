@@ -1,2 +1,0 @@
-http://vivian-east.secure-elasticsearch.vivian.shopifycloud.com
-https://vivian-east.secure-elasticsearch.vivian.shopifycloud.com

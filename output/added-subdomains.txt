@@ -1,4 +1,8 @@
-https://nyxq5.kibana.shopifycloud.com
-http://nyxq5.kibana.shopifycloud.com
-http://thanos-query-prometheus-us-ea1-ln22.shopifycloud.com
-https://thanos-query-prometheus-us-ea1-ln22.shopifycloud.com
+https://prometheus-us-ea1-ln22.shopifycloud.com
+http://prometheus-us-ea1-ln22.shopifycloud.com
+http://runtime-compiler-staging-unrestricte-jklpjvvk-apps-b-us-east1-7.shopifycloud.com
+https://runtime-compiler-staging-unrestricte-jklpjvvk-apps-b-us-east1-7.shopifycloud.com
+https://thanos-query-prometheus-as-se1-wq60.shopifycloud.com
+http://thanos-query-prometheus-us-we1-dz68.shopifycloud.com
+https://thanos-query-prometheus-us-we1-dz68.shopifycloud.com
+http://thanos-query-prometheus-as-se1-wq60.shopifycloud.com

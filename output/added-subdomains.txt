@@ -1,12 +1,4 @@
-https://prometheus-eu-we1-bx03.shopifycloud.com
-http://prometheus-eu-we1-bx03.shopifycloud.com
-http://prometheus-shop-oukr4izm-observability-prom-staging-us-ce1-vr63.shopifycloud.com
-https://prometheus-us-ea4-oo70.shopifycloud.com
-https://prometheus-shop-oukr4izm-observability-prom-staging-us-ce1-vr63.shopifycloud.com
-http://prometheus-us-ea4-oo70.shopifycloud.com
-http://thanos-query-prom-staging-us-ce1-vr63.shopifycloud.com
-https://thanos-query-prom-staging-us-ce1-vr63.shopifycloud.com
-http://thanos-query-prometheus-eu-we1-bx03.shopifycloud.com
-http://thanos-query-prometheus-us-ea4-oo70.shopifycloud.com
-https://thanos-query-prometheus-us-ea4-oo70.shopifycloud.com
-https://thanos-query-prometheus-eu-we1-bx03.shopifycloud.com
+https://nyxq5.kibana.shopifycloud.com
+http://nyxq5.kibana.shopifycloud.com
+http://thanos-query-prometheus-us-ea1-ln22.shopifycloud.com
+https://thanos-query-prometheus-us-ea1-ln22.shopifycloud.com

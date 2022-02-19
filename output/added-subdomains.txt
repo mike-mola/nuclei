@@ -1,0 +1,4 @@
+http://cloud-portal-apps-a-us-central1-11.shopifycloud.com
+http://cloud-portal-apps-a-us-east1-16.shopifycloud.com
+https://cloud-portal-apps-a-us-central1-11.shopifycloud.com
+https://cloud-portal-apps-a-us-east1-16.shopifycloud.com

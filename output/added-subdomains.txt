@@ -1,0 +1,2 @@
+https://prometheus-na-ne1-hz50.shopifycloud.com
+http://prometheus-na-ne1-hz50.shopifycloud.com

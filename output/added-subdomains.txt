@@ -1,2 +1,0 @@
-http://cloud-portal-management-us-east1-4.shopifycloud.com
-https://cloud-portal-management-us-east1-4.shopifycloud.com

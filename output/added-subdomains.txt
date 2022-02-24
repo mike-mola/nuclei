@@ -1,6 +1,2 @@
-https://anomaly-service.shopifycloud.com
-http://anomaly-service.shopifycloud.com
-https://mk-test-staging-unrestricted-web-apps-sandbox1-us-east1-hu25.shopifycloud.com
-http://mk-test-staging-unrestricted-web-apps-sandbox1-us-east1-hu25.shopifycloud.com
-http://pos-channel-staging-app.shopifycloud.com
-https://pos-channel-staging-app.shopifycloud.com
+http://cloud-portal-management-us-east1-4.shopifycloud.com
+https://cloud-portal-management-us-east1-4.shopifycloud.com

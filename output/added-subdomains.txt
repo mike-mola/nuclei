@@ -1,4 +1,6 @@
-https://cloud-portal-core-us-central1-qe93.shopifycloud.com
-http://cloud-portal-core-us-central1-qe93.shopifycloud.com
-https://trino-python-demo.shopifycloud.com
-http://trino-python-demo.shopifycloud.com
+https://anomaly-service.shopifycloud.com
+http://anomaly-service.shopifycloud.com
+https://mk-test-staging-unrestricted-web-apps-sandbox1-us-east1-hu25.shopifycloud.com
+http://mk-test-staging-unrestricted-web-apps-sandbox1-us-east1-hu25.shopifycloud.com
+http://pos-channel-staging-app.shopifycloud.com
+https://pos-channel-staging-app.shopifycloud.com

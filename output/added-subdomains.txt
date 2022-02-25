@@ -1,2 +1,0 @@
-http://metadata-catalog.shopifycloud.com
-https://metadata-catalog.shopifycloud.com

@@ -1,2 +1,2 @@
-http://product-feed-materializer.shopifycloud.com
-https://product-feed-materializer.shopifycloud.com
+https://lexicon.shopifycloud.com
+http://lexicon.shopifycloud.com

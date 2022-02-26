@@ -1,6 +1,2 @@
-http://brochure2-staging-unrestricted-fxlv-evrnc4ty-apps-b-us-east1-10.shopifycloud.com
-https://brochure2-staging-unrestricted-fxlv-evrnc4ty-apps-b-us-east1-10.shopifycloud.com
-http://focal-crop-production-unrestricted-7ote-web-apps-b-us-east1-10.shopifycloud.com
-http://focal-crop.shopifycloud.com
-https://focal-crop.shopifycloud.com
-https://focal-crop-production-unrestricted-7ote-web-apps-b-us-east1-10.shopifycloud.com
+http://product-feed-materializer.shopifycloud.com
+https://product-feed-materializer.shopifycloud.com

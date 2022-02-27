@@ -1,2 +1,0 @@
-http://galena.shopifycloud.com
-https://galena.shopifycloud.com

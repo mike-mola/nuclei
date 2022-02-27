@@ -1,2 +1,0 @@
-http://testing-rails-mishsmelle.shopifycloud.com
-https://testing-rails-mishsmelle.shopifycloud.com

@@ -1,6 +1,2 @@
-https://discounts-prototype-production-unre-p6iikt5j-apps-b-us-east1-10.shopifycloud.com
-http://discounts-prototype-production-unre-p6iikt5j-apps-b-us-east1-10.shopifycloud.com
-https://isaac-test.staging.merlin.shopifycloud.com
-http://isaac-test.staging.merlin.shopifycloud.com
-http://isaac-test.web.staging.merlin.shopifycloud.com
-https://isaac-test.web.staging.merlin.shopifycloud.com
+https://iris.shopifycloud.com
+http://iris.shopifycloud.com

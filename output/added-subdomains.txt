@@ -1,2 +1,2 @@
-https://newson-sandbox.shopifycloud.com
-http://newson-sandbox.shopifycloud.com
+http://trust-query-layer-staging-unrest-di7wxg6q-apps-b-us-central1-10.shopifycloud.com
+https://trust-query-layer-staging-unrest-di7wxg6q-apps-b-us-central1-10.shopifycloud.com

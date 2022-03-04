@@ -1,0 +1,2 @@
+http://clintonshopify-test.shopifycloud.com
+https://clintonshopify-test.shopifycloud.com

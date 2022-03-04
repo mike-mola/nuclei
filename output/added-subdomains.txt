@@ -1,2 +1,2 @@
-http://clintonshopify-test.shopifycloud.com
-https://clintonshopify-test.shopifycloud.com
+http://shipit-staging-shipit-sox-staging-us-east1-1.shopifycloud.com
+https://shipit-staging-shipit-sox-staging-us-east1-1.shopifycloud.com

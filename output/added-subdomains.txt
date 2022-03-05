@@ -1,0 +1,8 @@
+http://mbruce-redis-migration-test.shopifycloud.com
+https://mbruce-redis-migration-test.shopifycloud.com
+http://morgan-esi-again.kibana.morgan.shopifycloud.com
+https://morgan-esi-again.kibana.morgan.shopifycloud.com
+https://odm6o.kibana.shopifycloud.com
+http://odm6o.kibana.shopifycloud.com
+http://vivian-central-security.secure-elasticsearch.vivian.shopifycloud.com
+https://vivian-central-security.secure-elasticsearch.vivian.shopifycloud.com

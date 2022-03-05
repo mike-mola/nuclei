@@ -1,0 +1,4 @@
+https://bugbounty-staging-unrestricted-drdfnlwf-es-apps-b-us-central1-2.shopifycloud.com
+http://bugbounty-staging-unrestricted-drdfnlwf-es-apps-b-us-central1-2.shopifycloud.com
+http://morgan-esi-again.secure-elasticsearch.morgan.shopifycloud.com
+https://morgan-esi-again.secure-elasticsearch.morgan.shopifycloud.com

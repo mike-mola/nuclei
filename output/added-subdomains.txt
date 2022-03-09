@@ -1,2 +1,6 @@
-https://barcodle-staging.shopifycloud.com
-http://barcodle-staging.shopifycloud.com
+https://oily-rags.shopifycloud.com
+http://oily-rags.shopifycloud.com
+http://samus-testing-environment.shopifycloud.com
+https://samus-testing-environment.shopifycloud.com
+https://xiaoxi-test-katesql-service.shopifycloud.com
+http://xiaoxi-test-katesql-service.shopifycloud.com

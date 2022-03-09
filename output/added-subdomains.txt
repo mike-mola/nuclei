@@ -1,0 +1,2 @@
+https://barcodle-staging.shopifycloud.com
+http://barcodle-staging.shopifycloud.com

@@ -1,4 +1,4 @@
-https://app-test-es7.secure-elasticsearch.ben.shopifycloud.com
-http://app-test-es7.secure-elasticsearch.ben.shopifycloud.com
-http://brochure2-staging-qyx0.shopifycloud.com
-https://brochure2-staging-qyx0.shopifycloud.com
+https://59884580.ulink.adjust.com
+http://59884580.ulink.adjust.com
+http://data-app-discovery.streamlit-service.shopifycloud.com
+https://data-app-discovery.streamlit-service.shopifycloud.com

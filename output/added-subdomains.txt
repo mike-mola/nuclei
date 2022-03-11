@@ -1,4 +1,2 @@
-https://59884580.ulink.adjust.com
-http://59884580.ulink.adjust.com
-http://data-app-discovery.streamlit-service.shopifycloud.com
-https://data-app-discovery.streamlit-service.shopifycloud.com
+http://nick-schwaderer-test-katesql-service.shopifycloud.com
+https://nick-schwaderer-test-katesql-service.shopifycloud.com

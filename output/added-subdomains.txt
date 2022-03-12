@@ -1,2 +1,0 @@
-http://runtime-engine-staging-2.shopifycloud.com
-https://runtime-engine-staging-2.shopifycloud.com

@@ -1,0 +1,4 @@
+http://ledgerz.shopifycloud.com
+https://ledgerz.shopifycloud.com
+http://mobility-test-app-staging.shopifycloud.com
+https://mobility-test-app-staging.shopifycloud.com

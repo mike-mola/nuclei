@@ -1,0 +1,2 @@
+https://mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com
+http://mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com

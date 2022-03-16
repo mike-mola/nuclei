@@ -1,2 +1,2 @@
-http://signup-service-poc.shopifycloud.com
-https://signup-service-poc.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com

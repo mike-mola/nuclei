@@ -1,2 +1,2 @@
-http://elasticsearch.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com
-https://elasticsearch.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com
+http://vivian2-central.kibana.vivian2.shopifycloud.com
+https://vivian2-central.kibana.vivian2.shopifycloud.com

@@ -1,4 +1,0 @@
-https://bogus-marketplace-app.shopifycloud.com
-http://bogus-marketplace-app.shopifycloud.com
-http://gollum-demo.shopifycloud.com
-https://gollum-demo.shopifycloud.com

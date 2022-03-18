@@ -1,2 +1,10 @@
-https://brochure2-staging-6f0o.shopifycloud.com
-http://brochure2-staging-6f0o.shopifycloud.com
+http://alertmanager-prometheus-us-we1-dz68.shopifycloud.com
+https://alertmanager-prometheus-us-we1-dz68.shopifycloud.com
+http://brochure2-staging-pi60.shopifycloud.com
+https://brochure2-staging-pi60.shopifycloud.com
+https://rails-manual-walkthrough-pre-prod.shopifycloud.com
+http://rails-manual-walkthrough-pre-prod.shopifycloud.com
+https://storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com
+http://storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com
+http://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com
+https://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com

@@ -7996,3 +7996,15 @@ https://storefront-search-us-central.secure-elasticsearch.storefront-search-prod
 http://storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com
 http://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com
 https://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com
+https://abandoned-checkouts-offloader-staging.shopifycloud.com
+http://abandoned-checkouts-offloader-staging.shopifycloud.com
+http://admin-staging-sxyc.shopifycloud.com
+http://admin-staging-ezky.shopifycloud.com
+https://admin-staging-sxyc.shopifycloud.com
+https://admin-staging-ezky.shopifycloud.com
+http://alertmanager-prometheus-us-ea4-oo70.shopifycloud.com
+https://alertmanager-prometheus-us-ea4-oo70.shopifycloud.com
+http://alertmanager-prometheus-eu-we1-bx03.shopifycloud.com
+https://alertmanager-prometheus-eu-we1-bx03.shopifycloud.com
+http://ledger-test-business.shopifycloud.com
+https://ledger-test-business.shopifycloud.com

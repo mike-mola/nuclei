@@ -1,6 +1,2 @@
-http://admin-staging-d9f2.shopifycloud.com
-https://admin-staging-d9f2.shopifycloud.com
-http://alertmanager-prometheus-na-ne1-hz50.shopifycloud.com
-https://alertmanager-prometheus-na-ne1-hz50.shopifycloud.com
-http://web-staging-c0n6.shopifycloud.com
-https://web-staging-c0n6.shopifycloud.com
+http://customer-data-platform-loadtest.shopifycloud.com
+https://customer-data-platform-loadtest.shopifycloud.com

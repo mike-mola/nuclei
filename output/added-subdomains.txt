@@ -1,8 +1,2 @@
-http://84476613.ulink.adjust.com
-https://84476613.ulink.adjust.com
-https://admin-staging-7won.shopifycloud.com
-http://admin-staging-7won.shopifycloud.com
-http://admin-staging-c0n6.shopifycloud.com
-https://admin-staging-c0n6.shopifycloud.com
-http://sentinel.shopifycloud.com
-https://sentinel.shopifycloud.com
+http://web-staging-7won.shopifycloud.com
+https://web-staging-7won.shopifycloud.com

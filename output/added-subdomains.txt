@@ -1,4 +1,4 @@
-https://web-staging-d9f2.shopifycloud.com
-http://web-staging-sxyc.shopifycloud.com
-http://web-staging-d9f2.shopifycloud.com
-https://web-staging-sxyc.shopifycloud.com
+http://flow-tracing-prototypes.shopifycloud.com
+https://flow-tracing-prototypes.shopifycloud.com
+https://web-staging-ezky.shopifycloud.com
+http://web-staging-ezky.shopifycloud.com

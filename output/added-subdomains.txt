@@ -1,2 +1,4 @@
-http://web-staging-7won.shopifycloud.com
-https://web-staging-7won.shopifycloud.com
+https://web-staging-d9f2.shopifycloud.com
+http://web-staging-sxyc.shopifycloud.com
+http://web-staging-d9f2.shopifycloud.com
+https://web-staging-sxyc.shopifycloud.com

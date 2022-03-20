@@ -1,4 +1,4 @@
-http://flow-tracing-prototypes.shopifycloud.com
-https://flow-tracing-prototypes.shopifycloud.com
-https://web-staging-ezky.shopifycloud.com
-http://web-staging-ezky.shopifycloud.com
+http://admin-staging-8njb.shopifycloud.com
+https://admin-staging-8njb.shopifycloud.com
+http://web-staging-8njb.shopifycloud.com
+https://web-staging-8njb.shopifycloud.com

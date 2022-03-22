@@ -1,2 +1,2 @@
-http://org-admin-web-staging-7won.shopifycloud.com
-https://org-admin-web-staging-7won.shopifycloud.com
+https://central-pipeline-registry-staging.shopifycloud.com
+http://central-pipeline-registry-staging.shopifycloud.com

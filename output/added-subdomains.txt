@@ -1,4 +1,2 @@
-https://org-admin-web-staging-1g8h.shopifycloud.com
-http://org-admin-web-staging-c0n6.shopifycloud.com
-https://org-admin-web-staging-c0n6.shopifycloud.com
-http://org-admin-web-staging-1g8h.shopifycloud.com
+http://org-admin-web-staging-7won.shopifycloud.com
+https://org-admin-web-staging-7won.shopifycloud.com

@@ -1,2 +1,4 @@
-https://central-pipeline-registry-staging.shopifycloud.com
-http://central-pipeline-registry-staging.shopifycloud.com
+http://domain-suggestion-api-two-staging.shopifycloud.com
+https://domain-suggestion-api-two-staging.shopifycloud.com
+https://fauxchure-production-unrestricted-web-apps-a-us-east1-10.shopifycloud.com
+http://fauxchure-production-unrestricted-web-apps-a-us-east1-10.shopifycloud.com

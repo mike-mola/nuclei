@@ -1,0 +1,4 @@
+https://shop-lookup.streamlit-service.shopifycloud.com
+http://shop-lookup.streamlit-service.shopifycloud.com
+http://vivian-central.kibana.vivian2.shopifycloud.com
+https://vivian-central.kibana.vivian2.shopifycloud.com

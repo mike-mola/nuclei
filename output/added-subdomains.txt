@@ -1,6 +1,0 @@
-http://cloud-portal-infra-sandbox-us-ea1-ql03.shopifycloud.com
-https://cloud-portal-infra-sandbox-us-ea1-ql03.shopifycloud.com
-https://first-party-test-app-with-esbuild.shopifycloud.com
-http://first-party-test-app-with-esbuild.shopifycloud.com
-https://k7oxn.kibana.shopifycloud.com
-http://k7oxn.kibana.shopifycloud.com

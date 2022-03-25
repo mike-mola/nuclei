@@ -1,8 +1,6 @@
-http://cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com
-https://cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com
-http://fb-capi-staging.shopifycloud.com
-https://fb-capi-staging.shopifycloud.com
-http://safe-delete-test-app.shopifycloud.com
-https://safe-delete-test-app.shopifycloud.com
-https://secretpolaris.shopifycloud.com
-http://secretpolaris.shopifycloud.com
+https://14277116.ulink.adjust.com
+http://14277116.ulink.adjust.com
+http://cdc-staging-apps.shopifycloud.com
+https://cdc-staging-apps.shopifycloud.com
+https://oxygen-core-bridge.shopifycloud.com
+http://oxygen-core-bridge.shopifycloud.com

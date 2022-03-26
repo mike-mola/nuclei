@@ -1,8 +1,6 @@
-https://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
-http://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
-http://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
-https://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
-http://flow-tracing-prototypes-q138.shopifycloud.com
-https://flow-tracing-prototypes-q138.shopifycloud.com
-http://partner-billing-test-app.shopifycloud.com
-https://partner-billing-test-app.shopifycloud.com
+http://cdc-core-staging-apps-unrestrict-awbit2df-apps-b-us-central1-10.shopifycloud.com
+https://cdc-core-staging-apps-unrestrict-awbit2df-apps-b-us-central1-10.shopifycloud.com
+http://metadata-catalog-production-un-pdf3e7p5-es-apps-b-us-central1-2.shopifycloud.com
+https://metadata-catalog-production-un-pdf3e7p5-es-apps-b-us-central1-2.shopifycloud.com
+http://ptz2e.kibana.shopifycloud.com
+https://ptz2e.kibana.shopifycloud.com

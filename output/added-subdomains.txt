@@ -1,6 +1,8 @@
-https://14277116.ulink.adjust.com
-http://14277116.ulink.adjust.com
-http://cdc-staging-apps.shopifycloud.com
-https://cdc-staging-apps.shopifycloud.com
-https://oxygen-core-bridge.shopifycloud.com
-http://oxygen-core-bridge.shopifycloud.com
+https://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
+http://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
+http://flow-tracing-prototypes-q138.shopifycloud.com
+https://flow-tracing-prototypes-q138.shopifycloud.com
+http://partner-billing-test-app.shopifycloud.com
+https://partner-billing-test-app.shopifycloud.com

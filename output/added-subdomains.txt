@@ -1,0 +1,8 @@
+http://elasticsearch.kibana.i0.staging-unrestricted-k71s.metadata-catalog.shopifycloud.com
+https://elasticsearch.kibana.i0.staging-unrestricted-k71s.metadata-catalog.shopifycloud.com
+http://kap76.kibana.shopifycloud.com
+https://kap76.kibana.shopifycloud.com
+https://marketplace-api-gateway-staging.shopifycloud.com
+http://marketplace-api-gateway-staging.shopifycloud.com
+http://tempo-tempo-us-east1-1.shopifycloud.com
+https://tempo-tempo-us-east1-1.shopifycloud.com

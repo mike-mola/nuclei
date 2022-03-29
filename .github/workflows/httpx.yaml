@@ -53,7 +53,7 @@ jobs:
 
       - name: Checks for Sidekiq
         run: |
-          httpx -l output/all -status-code  -title -path /sidekiq -mc 200 -content-length -random-agent -retries 3 | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
+          httpx -l output/all -status-code  -title -path /sidekiq -mc 200 -ms sidekiq -content-length -random-agent -retries 3 | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
  
 
     

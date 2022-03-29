@@ -43,6 +43,7 @@ jobs:
 
       - name: Commit results to Github
         run: |
+          git pull 
           git config --local user.email "tester@tester.com"
           git config --global user.name "monitor"
           git commit -m "PD-Actions report" -a --allow-empty

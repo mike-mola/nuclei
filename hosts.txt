@@ -1,2 +1,4 @@
 shopifycloud.com
 adjust.com
+shopify.io
+adjust.dev 

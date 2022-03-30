@@ -8166,3 +8166,9 @@ https://marketplace-api-gateway-staging.shopifycloud.com
 http://marketplace-api-gateway-staging.shopifycloud.com
 http://tempo-tempo-us-east1-1.shopifycloud.com
 https://tempo-tempo-us-east1-1.shopifycloud.com
+http://beaker-metadata.shopifycloud.com
+https://beaker-metadata.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-k71s.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-k71s.shopifycloud.com
+http://trust-query-layer-staging.shopifycloud.com
+https://trust-query-layer-staging.shopifycloud.com

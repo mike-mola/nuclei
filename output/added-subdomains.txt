@@ -1,4 +1,2 @@
-http://devdegree-bridge-mariah.shopifycloud.com
-https://devdegree-bridge-mariah.shopifycloud.com
-http://tempo-tempo-us-east1-2.shopifycloud.com
-https://tempo-tempo-us-east1-2.shopifycloud.com
+http://request-profiler.shopifycloud.com
+https://request-profiler.shopifycloud.com

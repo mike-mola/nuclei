@@ -1,1 +1,1 @@
-https://experiment-explorer.streamlit-service.shopifycloud.com
+https://memeify.shopifycloud.com

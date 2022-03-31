@@ -1,1 +1,2 @@
-https://sm-proto.shopifycloud.com
+https://fb-capi-production-unrestricted-2p0-raxtaush-apps-b-us-east1-10.shopifycloud.com
+https://settings-overlay-sandbox.shopifycloud.com

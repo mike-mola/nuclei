@@ -1,1 +1,2 @@
-https://pepto-connector-manager.shopifycloud.com
+https://cypress-tests.shopifycloud.com
+https://shipping-to-production.shopify.io

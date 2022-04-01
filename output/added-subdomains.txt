@@ -1,2 +1,1 @@
-https://exp-sample-size-calculator.streamlit-service.shopifycloud.com
-https://transporter-staging.shopifycloud.com
+https://pepto-connector-manager.shopifycloud.com

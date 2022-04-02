@@ -1,0 +1,2 @@
+https://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com
+https://ljqnt.kibana.shopifycloud.com

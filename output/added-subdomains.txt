@@ -1,1 +1,1 @@
-https://rollout-monitor.streamlit-service.shopifycloud.com
+https://meta-channel-poc.shopifycloud.com

@@ -1,0 +1,15 @@
+https://2ki5o.kibana.shopifycloud.com
+https://cloud-portal-production-web-ping-core-n1-us-ea1-ie31.shopifycloud.com
+https://core-europe-west3-es7.secure-elasticsearch.es7.shopifycloud.com
+https://devdegree-bridge-ariana-producti-yxtat7a7-apps-b-us-central1-11.shopifycloud.com
+https://devdegree-bridge-celine-producti-i4tfmy27-apps-b-us-central1-11.shopifycloud.com
+https://es7-core-europe-west3-es7--kibana-es-core-europe-west3-1.shopifycloud.com
+https://es7-core-europe-west4-es7--elasticsearch-es-core-europe-west4-1.shopifycloud.com
+https://fb-capi-staging-unrestricted-oku-ygo2flnr-apps-b-us-central1-11.shopifycloud.com
+https://marketing-landing-pages-dev.shopifycloud.com
+https://metadata-catalog-staging-unrestri-4bku5i5d-es-apps-b-us-east1-1.shopifycloud.com
+https://metadata-catalog-staging-unrestri-rh6bzc24-es-apps-b-us-east1-1.shopifycloud.com
+https://o11y-playground-service-sandbox.shopifycloud.com
+https://shop-checkout-production-unrestr-icccr4wv-apps-b-us-central1-11.shopifycloud.com
+https://sm-proto-production-unrestricted-en1d-web-apps-b-us-central1-11.shopifycloud.com
+https://warehouse-staging-unrestricted-web-apps-b-us-central1-11.shopifycloud.com

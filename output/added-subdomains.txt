@@ -1,6 +1,2 @@
-https://core-europe-west3-es7.kibana.es7.shopifycloud.com
-https://cronograma-staging.secure-elasticsearch.cronograma-staging-unrestricted-hec2.shopifycloud.com
-https://devdegree-bridge-freddie.shopifycloud.com
-https://elasticsearch.secure-elasticsearch.cronograma-staging-unrestricted-hec2.shopifycloud.com
-https://n4plt.kibana.shopifycloud.com
-https://r72hl.kibana.shopifycloud.com
+https://core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com
+https://morgan-test-esi.secure-elasticsearch.morgan.shopifycloud.com

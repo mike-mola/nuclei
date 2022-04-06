@@ -1,2 +1,1 @@
-https://core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com
-https://morgan-test-esi.secure-elasticsearch.morgan.shopifycloud.com
+https://fb-capi-staging-unrestricted-oku9-i0.shopifycloud.com

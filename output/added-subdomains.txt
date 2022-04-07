@@ -1,2 +1,0 @@
-https://core-europe-west4-es7.kibana.es7.shopifycloud.com
-https://kalindu-test-app.shopifycloud.com

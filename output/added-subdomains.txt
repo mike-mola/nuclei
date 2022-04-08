@@ -1,1 +1,2 @@
-https://watchtower.shopifycloud.com
+http://bourgeois.shopify.io
+https://kafkanet-staging.shopifycloud.com

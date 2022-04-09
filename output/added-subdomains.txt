@@ -1,2 +1,1 @@
-http://factures.shopify.io
-https://marco-subs-test.shopifycloud.com
+https://ethans-awesome-go-test-app-staging.shopifycloud.com

@@ -1,11 +1,1 @@
-https://cloud-portal-production-web-ping-core-us-ea1-bw00.shopifycloud.com
-https://dom-polaris-sandbox-production-u-g4o32x6b-apps-b-us-central1-11.shopifycloud.com
-https://es7-core-europe-west3-es7--elasticsearch-es-core-europe-west3-1.shopifycloud.com
-https://ethans-awesome-go-test-app-kpk6dhs3-apps-sandbox1-us-central1-1.shopifycloud.com
-https://grokt-production-unrestricted-zic5-webhook-apps-b-us-east1-10.shopifycloud.com
-http://hackdays.shopify.io
-https://incident-dashboard-staging-unres-fk4ejueg-apps-b-us-central1-11.shopifycloud.com
-https://kafkanet.shopifycloud.com
-https://runtime-engine-staging-unrestricted-web-apps-b-us-central1-11.shopifycloud.com
-https://shopify-dev-staging-unrestricted-4-web-apps-b-us-central1-11.shopifycloud.com
-https://thanos-query-prom-staging-us-ce1-wt49.shopifycloud.com
+https://cloud-portal-core-n1-us-ea1-vw48.shopifycloud.com

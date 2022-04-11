@@ -1,1 +1,1 @@
-http://grid.shopify.io
+http://cdn.shopify.io

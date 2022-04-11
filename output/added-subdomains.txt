@@ -1,1 +1,2 @@
-https://prom-staging-us-ce1-wt49.shopifycloud.com
+http://artifact.shopify.io
+http://detour.shopify.io

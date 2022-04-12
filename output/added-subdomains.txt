@@ -1,3 +1,1 @@
-https://imagery4-staging-fonts.shopifycloud.com
-http://marketing.shopify.io
-http://notebooks.shopify.io
+http://bourgeois-staging-ui.shopify.io

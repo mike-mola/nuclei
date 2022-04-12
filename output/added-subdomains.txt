@@ -1,1 +1,1 @@
-http://bourgeois-staging-ui.shopify.io
+http://polaris-viz.shopify.io

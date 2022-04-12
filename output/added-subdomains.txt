@@ -1,1 +1,3 @@
-http://cdn.shopify.io
+https://imagery4-staging-fonts.shopifycloud.com
+http://marketing.shopify.io
+http://notebooks.shopify.io

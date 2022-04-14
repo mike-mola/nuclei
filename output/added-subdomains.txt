@@ -1,2 +1,1 @@
-http://nzupdates.shopify.io
-https://wbean-test.shopifycloud.com
+https://db-marinas-app.shopifycloud.com

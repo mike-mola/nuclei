@@ -1,1 +1,2 @@
-https://logging-rails-playground.shopifycloud.com
+http://docs.shopify.io
+https://thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com

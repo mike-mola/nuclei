@@ -1,2 +1,1 @@
-http://athena.shopify.io
-https://clouddo-ui-staging.shopify.io
+https://logging-rails-playground.shopifycloud.com

@@ -1,1 +1,3 @@
-http://authme.shopify.io
+https://mimir-ruler.shopifycloud.com
+https://nextjs-admin-starter.shopifycloud.com
+https://thanos-global.shopifycloud.com

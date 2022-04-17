@@ -1,6 +1,0 @@
-https://dt-services-db-test.shopifycloud.com
-http://growthorg.shopify.io
-http://it.shopify.io
-https://moi-test-service.shopifycloud.com
-https://prometheus-shopif-j7nxvj5g-observability-prometheus-as-se1-wq60.shopifycloud.com
-https://thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com

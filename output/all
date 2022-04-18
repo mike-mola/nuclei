@@ -8409,3 +8409,6 @@ http://core-europe-west3-es7.secure-elasticsearch.es7.shopifycloud.com
 http://cdc-connector-operations-db-manager-staging.shopifycloud.com
 https://cloud-portal-core-n1-us-ea1-vv43.shopifycloud.com
 https://cloud-portal-core-us-ce1-xk79.shopifycloud.com
+https://cloud-portal-apps-core-eu-we3-cx34.shopifycloud.com
+http://supportonboarding.shopify.io
+https://thanos-query-grpc-prometheus-us-ea1-ln22.shopifycloud.com

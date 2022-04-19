@@ -1,3 +1,2 @@
-https://backfilter.shopifycloud.com
-http://development.shopify.io
-http://models.shopify.io
+https://flink-deploy-sample-stag-id23g7qg-data-platform-a-us-central1-1.shopifycloud.com
+https://mauro-test-jobs.shopifycloud.com

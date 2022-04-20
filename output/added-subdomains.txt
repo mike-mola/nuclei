@@ -1,2 +1,2 @@
-https://flink-deploy-sample-stag-id23g7qg-data-platform-a-us-central1-1.shopifycloud.com
-https://mauro-test-jobs.shopifycloud.com
+https://elasticsearch.kibana.i0.staging-unrestricted-ks35.atlas.shopifycloud.com
+https://thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com

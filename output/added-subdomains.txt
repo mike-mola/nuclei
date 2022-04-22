@@ -1,4 +1,2 @@
-https://cdc-connector-operations-db-manager-staging.shopifycloud.com
-http://eventmarketing.shopify.io
-http://mdm.shopify.io
-https://shopify-planet.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-eu17.shopifycloud.com
+http://patdown.shopify.io

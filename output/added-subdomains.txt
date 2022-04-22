@@ -1,2 +1,1 @@
-http://blog.shopify.io
-https://mtds-mlflow.shopifycloud.com
+http://session.shopify.io

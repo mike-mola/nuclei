@@ -1,4 +1,0 @@
-http://bursting.shopify.io
-https://cloud-portal-apps-core-us-central1-2.shopifycloud.com
-https://merchantlaunch.shopifycloud.com
-https://podcasts.shopify.io

@@ -1,2 +1,4 @@
-https://data-arma-staging-unrest-6vvsvzds-data-platform-a-us-central1-1.shopifycloud.com
-https://oxygen-observability-service-staging.shopifycloud.com
+http://bursting.shopify.io
+https://cloud-portal-apps-core-us-central1-2.shopifycloud.com
+https://merchantlaunch.shopifycloud.com
+https://podcasts.shopify.io

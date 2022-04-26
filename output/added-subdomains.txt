@@ -1,1 +1,1 @@
-https://oxygen-grafana-staging-replica.shopifycloud.com
+http://invoices.shopify.io

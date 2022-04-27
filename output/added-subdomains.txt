@@ -1,3 +1,1 @@
-https://elasticsearch.secure-elasticsearch.rick-test-app-production-unrestricted-5rtn.shopifycloud.com
-https://preview.athena.shopify.io
-https://russbot-production-russbot-elasti-uliygn6z-es-apps-b-us-east1-1.shopifycloud.com
+https://tricorn.shopifycloud.com

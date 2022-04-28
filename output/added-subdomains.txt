@@ -1,1 +1,1 @@
-http://conductor-staging-api.shopifycloud.com
+http://monpliance-staging.shopify.io

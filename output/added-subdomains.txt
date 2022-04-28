@@ -1,3 +1,1 @@
-https://cloud-portal-core-us-ce1-ye59.shopifycloud.com
-https://cronograma-staging.kibana.i0.staging-unrestricted-hec2.cronograma.shopifycloud.com
-https://schema-migrations-test-app.shopifycloud.com
+http://conductor-staging-api.shopifycloud.com

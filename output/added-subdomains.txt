@@ -1,8 +1,2 @@
-http://api-icinga-gce-us-central1.shopify.io
-http://cloud-docs.docs.shopify.io
-http://cypress-tests.shopifycloud.com
-https://elasticsearch.kibana.i0.staging-zeebe-unrestricted-uwge.trust-rules-engine.shopifycloud.com
-https://iij2a.kibana.shopifycloud.com
-https://kalindu-test-app-test-apps-sandbox1-us-central1-1.shopifycloud.com
-https://o7vrd.kibana.shopifycloud.com
-https://russbot-elasticsearch.kibana.russbot-production.shopifycloud.com
+https://h4ys4.kibana.shopifycloud.com
+https://robertmeessen-react-poc.shopifycloud.com

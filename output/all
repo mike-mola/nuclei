@@ -8497,3 +8497,7 @@ http://monpliance-staging.shopify.io
 https://cloud-portal-core-n1-us-ea1-hq89.shopifycloud.com
 https://cloud-portal-infra-sandbox-us-ea1-wy31.shopifycloud.com
 https://schema-registry-europe.shopifycloud.com
+https://adhoc-external-data-pull.streamlit-service.shopifycloud.com
+https://bfewc.kibana.shopifycloud.com
+https://conductor-staging-api.shopifycloud.com
+https://rick-test-app.shopifycloud.com

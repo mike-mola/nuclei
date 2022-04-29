@@ -1,0 +1,2 @@
+https://cloud-portal-infra-sandbox-us-ea1-wy31.shopifycloud.com
+https://schema-registry-europe.shopifycloud.com

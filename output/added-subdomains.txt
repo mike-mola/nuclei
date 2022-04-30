@@ -1,4 +1,3 @@
-http://cdc-connector-operations-db-manager.shopifycloud.com
-http://kafkanet.shopifycloud.com
-https://russbot-elasticsearch.secure-elasticsearch.russbot-production.shopifycloud.com
-http://splunk-hec.shopify.io
+https://95966387.ulink.adjust.com
+https://9824377.ulink.adjust.com
+https://8324678.ulink.adjust.com

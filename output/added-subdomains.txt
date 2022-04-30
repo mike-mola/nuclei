@@ -1,1 +1,3 @@
-https://kalindu-test-app-2-test-apps-sandbox1-us-central1-1.shopifycloud.com
+https://cloud-portal-apps-a-us-central1-15.shopifycloud.com
+http://cloud-portal-apps-core-us-central1-2.shopifycloud.com
+https://schwads-last-test.shopifycloud.com

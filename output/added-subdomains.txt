@@ -1,2 +1,2 @@
-https://athena-flex-production-preview.shopifycloud.com
-https://elasticsearch-2.secure-elasticsearch.courier-audit-data-services-prototype-production-unres-c0f10f5d.shopifycloud.com
+http://brand.shopify.io
+https://gsslearn.shopify.io

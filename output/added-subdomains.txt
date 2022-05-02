@@ -1,2 +1,1 @@
-https://cloud-portal-apps-core-us-east1-2.shopifycloud.com
-https://cloud-portal-core-n1-us-ea1-dw52.shopifycloud.com
+https://bugbounty-staging.shopifycloud.com

@@ -1,1 +1,0 @@
-https://elasticsearch-2.kibana.i0.production-unrestricted-se51.courier-audit-data-services-prototype.shopifycloud.com

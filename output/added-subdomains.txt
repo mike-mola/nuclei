@@ -1,1 +1,4 @@
-https://test-nginx-rails-path-separators.shopifycloud.com
+https://cloud-portal-core-eu-we3-xq75.shopifycloud.com
+https://customers.shopifycloud.com
+https://kalindu-test-app-staging.shopifycloud.com
+http://observe.shopify.io

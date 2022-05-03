@@ -1,0 +1,3 @@
+https://atlas-staging-unrestricted-ks35-e-vwyln7j2-es-apps-b-us-east1-1.shopifycloud.com
+http://moi-test-service.shopifycloud.com
+https://thanos-query-observability-thanos-us-ea1-zy70.shopifycloud.com

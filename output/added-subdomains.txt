@@ -1,3 +1,2 @@
-https://elasticsearch.secure-elasticsearch.emex-net-basic-app-production-unrestricted-od3g.shopifycloud.com
-https://trickle-staging-unrestricted-gzy8.shopifycloud.com
-https://warehouse-uploader.growth-labs.shopifycloud.com
+http://condos.shopify.io
+https://hubble.shopify.io

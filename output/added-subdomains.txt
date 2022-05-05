@@ -1,5 +1,3 @@
-https://atlantis-okta.shopifycloud.com
-https://safer-backend.shopifycloud.com
-http://screenshot-service.shopify.io
-https://thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com
-https://woocommerce-shop-pay-gateway.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.emex-net-basic-app-production-unrestricted-od3g.shopifycloud.com
+https://trickle-staging-unrestricted-gzy8.shopifycloud.com
+https://warehouse-uploader.growth-labs.shopifycloud.com

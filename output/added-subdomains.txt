@@ -1,0 +1,5 @@
+https://atlantis-okta.shopifycloud.com
+https://safer-backend.shopifycloud.com
+http://screenshot-service.shopify.io
+https://thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com
+https://woocommerce-shop-pay-gateway.shopifycloud.com

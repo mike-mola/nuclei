@@ -1,2 +1,1 @@
-https://cloud-portal-apps-a-us-central1-13.shopifycloud.com
-https://cronograma-production.kibana.i0.production-unrestricted.cronograma.shopifycloud.com
+https://test-olivierlab.shopifycloud.com

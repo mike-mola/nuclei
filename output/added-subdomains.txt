@@ -1,9 +1,8 @@
-https://app-test-es7.secure-elasticsearch.kenny.shopifycloud.com
-https://brochure2-staging-w1tq.shopifycloud.com
-https://cdc.pepto-connector.shopifycloud.com
-http://declarative-forms-editor.shopifycloud.com
-https://edge-cache-service-production-unrestricted-eyno-i0.shopifycloud.com
-http://helpdesk.shopify.io
-https://job-post-lint.shopifycloud.com
-https://thanos-query-grpc-prom-staging-us-ce1-vr63.shopifycloud.com
-https://trickle-staging-unrestricted-an87.shopifycloud.com
+https://apostolis-2test.shopifycloud.com
+https://arrive-server.kibana.i1.production-unrestricted.arrive-server.shopifycloud.com
+https://cloud-portal-production-web-custom-apps-b-us-east1-9.shopifycloud.com
+http://cronograma-staging.kibana.i0.staging-unrestricted-hec2.cronograma.shopifycloud.com
+https://elvin-test.shopifycloud.com
+https://metadata-catalog-staging-se0h.shopifycloud.com
+https://signup-spam-mitigation.shopifycloud.com
+https://taid-workload-simulator.shopifycloud.com

@@ -1,9 +1,1 @@
-https://6oaa4.kibana.shopifycloud.com
-https://2aazf.kibana.shopifycloud.com
-https://cloud-portal-imagery-us-ea1-fv18.shopifycloud.com
-https://disco-time.shopifycloud.com
-https://glyi4.kibana.shopifycloud.com
-https://growth-forecasting-mlflow.shopifycloud.com
-https://hjrml.kibana.shopifycloud.com
-https://k3yvd.kibana.shopifycloud.com
-https://resoto-staging.shopifycloud.com
+https://hackdays-internal-wellness.shopifycloud.com

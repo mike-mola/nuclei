@@ -1,6 +1,1 @@
-http://app-store-staging-sonic-es6.secure-elasticsearch.shopify-app-store-staging-sonic-unrestricted-0k2u.shopifycloud.com
-https://cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com
-http://elasticsearch.secure-elasticsearch.courier-audit-production-unrestricted.shopifycloud.com
-https://hackdays-shop-clone-to-spin.shopifycloud.com
-https://thanos-global-staging.shopifycloud.com
-https://vivian-slm.secure-elasticsearch.vivian-slm.shopifycloud.com
+https://cloud-portal-core-us-ce1-qy72.shopifycloud.com

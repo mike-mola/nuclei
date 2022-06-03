@@ -1,1 +1,1 @@
-https://cloud-portal-core-us-ce1-qy72.shopifycloud.com
+https://jessie-test-cicd-state.shopifycloud.com

@@ -1,7 +1,3 @@
-https://featured-snippets.growth-labs.shopifycloud.com
-https://flow-trivia.shopifycloud.com
-https://iris-frontend-poc.shopifycloud.com
-https://joseph-test-app.shopifycloud.com
-https://rg-test-go-app.shopifycloud.com
-https://snapshots.growth-labs.shopifycloud.com
-https://trickle-staging-unrestricted-ky4b.shopifycloud.com
+https://asset-test-go.shopify.io
+https://brochure-ingress-apps-a-us-central1-11.shopifycloud.com
+https://community-market-homepage.shopifycloud.com

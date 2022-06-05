@@ -1,4 +1,1 @@
-https://apostolis2-test.shopifycloud.com
-http://cloud-portal-apps-core-eu-we3-cx34.shopifycloud.com
-https://monorail-next.pepto-connector.shopifycloud.com
-https://retail-detector.shopifycloud.com
+http://logs-staging.shopify.io

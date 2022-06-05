@@ -1,5 +1,5 @@
-https://elasticsearch.kibana.i0.production-unrestricted-lb1n.conductor.shopifycloud.com
-https://hydrogen-test-emux.shopifycloud.com
-https://nft-gating-app.shopifycloud.com
-https://postman-tool-app.streamlit-service.shopifycloud.com
-https://sbomasum.shopifycloud.com
+https://hackdays-2022-photogrammetry.shopifycloud.com
+https://james-esi-4.secure-elasticsearch.james.shopifycloud.com
+https://moi-tommy-lab-100.shopifycloud.com
+https://plinko-staging.shopify.io
+https://web-staging-1g8h.shopifycloud.com

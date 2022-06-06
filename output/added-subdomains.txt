@@ -1,3 +1,4 @@
-https://buyer-returns-app.shopifycloud.com
-https://cdc-apps.shopifycloud.com
-https://merchant-to-merchant-curator.shopifycloud.com
+https://cloud-portal-apps-a-us-central1-12.shopifycloud.com
+https://cohorter.streamlit-service.shopifycloud.com
+https://inventory-api.shopifycloud.com
+https://otel-collector-client-metrics.shopifycloud.com

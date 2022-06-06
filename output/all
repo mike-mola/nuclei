@@ -8733,3 +8733,6 @@ https://cloud-portal-apps-a-us-central1-12.shopifycloud.com
 https://cohorter.streamlit-service.shopifycloud.com
 https://inventory-api.shopifycloud.com
 https://otel-collector-client-metrics.shopifycloud.com
+https://app-m2m-test-prod.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.courier-audit-production-unrestricted.shopifycloud.com
+http://pkgs.shopify.io

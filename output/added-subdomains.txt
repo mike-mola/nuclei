@@ -1,6 +1,3 @@
-https://apostolis-2-test.shopifycloud.com
-https://cdc-controller-grpc.shopifycloud.com
-https://online-store-web-production-canada-2jbzmf3j-apps-core-na-ne1-10.shopifycloud.com
-https://safer-staging.shopifycloud.com
-https://sfn-tnt-consumer.shopifycloud.com
-https://spot.shopifycloud.com
+https://buyer-returns-app.shopifycloud.com
+https://cdc-apps.shopifycloud.com
+https://merchant-to-merchant-curator.shopifycloud.com

@@ -1,0 +1,4 @@
+https://athena-flex-staging2.shopifycloud.com
+https://deep-knowledge-graph.shopifycloud.com
+https://escar-go.shopifycloud.com
+https://ethans-awesome-go-test-app.shopifycloud.com

@@ -1,2 +1,0 @@
-https://edge-cache-service-production-unrestricted-eyno-i1.shopifycloud.com
-https://shardlifter-manager.shopifycloud.com

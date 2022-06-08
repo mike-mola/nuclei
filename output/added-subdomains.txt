@@ -1,0 +1,3 @@
+https://alertmanager-prometheus-us-ce1-eb98.shopifycloud.com
+https://kafkanav.shopifycloud.com
+https://madhu-test.shopifycloud.com

@@ -8751,3 +8751,6 @@ https://merchant-to-merchant-staging.shopifycloud.com
 https://clouddo.shopify.io
 https://don-vector-poc-om3jm22f-oxygen-observability-sandbox-us-east1-1.shopifycloud.com
 https://mimir-query.shopifycloud.com
+http://k3yvd.kibana.shopifycloud.com
+https://mimir-alertmanager.shopifycloud.com
+https://web-production-unrestricted-i1.shopifycloud.com

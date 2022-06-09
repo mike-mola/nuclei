@@ -1,0 +1,3 @@
+http://k3yvd.kibana.shopifycloud.com
+https://mimir-alertmanager.shopifycloud.com
+https://web-production-unrestricted-i1.shopifycloud.com

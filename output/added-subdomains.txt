@@ -1,4 +1,2 @@
-http://cloud-portal-core-n1-us-ea1-zq96.shopifycloud.com
-https://retail-telemetry-proxy.shopifycloud.com
-http://scrooge.shopify.io
-https://web-production-unrestricted-i0.shopifycloud.com
+https://smarty-client.shopifycloud.com
+https://tricorn-staging.shopifycloud.com

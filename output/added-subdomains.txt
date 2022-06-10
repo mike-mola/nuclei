@@ -1,2 +1,0 @@
-https://smarty-client.shopifycloud.com
-https://tricorn-staging.shopifycloud.com

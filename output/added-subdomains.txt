@@ -1,0 +1,5 @@
+https://brochure2-staging-iu6v.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-aw92.shopifycloud.com
+https://data-handbook-qa.shopifycloud.com
+https://merchant-to-merchant-curator-staging.shopifycloud.com
+https://verification-tool.preprod.cloud.adjust.com

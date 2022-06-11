@@ -1,0 +1,4 @@
+https://cdc-staging-next.pepto-connector.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.hackdays-es-playground-production-unrestricted-31r6.shopifycloud.com
+https://retail-telemetry-proxy-staging.shopifycloud.com
+https://trickle-production-2-unrestricted-dc7l.shopifycloud.com

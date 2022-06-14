@@ -1,3 +1,2 @@
-http://incidents.shopify.io
-https://recv-qry-observability-prometheus-eu-we1-bx03.shopifycloud.com
-http://taid-workload-simulator.shopifycloud.com
+https://data-arma-production-unr-j47fxrvd-data-platform-a-us-central1-1.shopifycloud.com
+https://trickle-production-platf-wfveixis-data-platform-a-us-central1-1.shopifycloud.com

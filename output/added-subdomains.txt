@@ -1,4 +1,0 @@
-https://first-sale.streamlit-service.shopifycloud.com
-https://morgan-test-esi.kibana.morgan.shopifycloud.com
-https://superset.shopifycloud.com
-https://test-infra-reporter.shopifycloud.com

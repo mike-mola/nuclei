@@ -1,1 +1,1 @@
-http://marketingguidelines.shopify.io
+https://orchestrator-eu-west4-api.shopifycloud.com

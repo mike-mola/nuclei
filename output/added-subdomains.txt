@@ -1,1 +1,3 @@
-https://shopify-core-autoscaler-productio-4xjhuxrl-apps-core-us-east1-2.shopifycloud.com
+https://james-esi-5.secure-elasticsearch.james.shopifycloud.com
+https://mauro-test-jobs-production-unrestri-l4uysoc6-apps-b-us-east1-13.shopifycloud.com
+https://tally-production-lita-apps-b-us-east1-12.shopifycloud.com

@@ -1,2 +1,1 @@
-https://m2m-test-prod-production-app-unr-cvcvgcoh-apps-b-us-central1-11.shopifycloud.com
-https://metadata-catalog-production-unre-pyflqc5b-apps-b-us-central1-12.shopifycloud.com
+https://shopify-core-autoscaler-productio-4xjhuxrl-apps-core-us-east1-2.shopifycloud.com

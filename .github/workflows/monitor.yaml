@@ -33,7 +33,7 @@ jobs:
         run: |
           subfinder -dL hosts.txt  -all | assetfinder -subs-only | httpx -no-fallback -retries 5 > output/new
           cat output/new | anew output/all > output/added-subdomains.txt
-          cat output/added-subdomains.txt | notify -slack -slack-webhook-url ${{ secrets.SLACK_TOKEN }}
+          cat output/added-subdomains.txt | notify -slack -slack-webhook-url ${{ secrets.SLACK_WEBHOOK_NEW_SUBDOMAIN }}
         shell: bash
 
       - name: Create local changes

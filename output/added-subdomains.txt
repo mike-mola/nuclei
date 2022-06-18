@@ -1,3 +1,1 @@
-https://anne-liu-sandbox.shopifycloud.com
-http://ciro-spin-test.shopifycloud.com
-https://orchestrator-eu-west4.shopifycloud.com
+https://panama-admin-staging-beta.shopifycloud.com

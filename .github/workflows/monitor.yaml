@@ -31,7 +31,7 @@ jobs:
 
       - name: Subdomains 
         run: |
-          subfinder -dL hosts.txt  -all | assetfinder -subs-only | httpx -no-fallback -retries 5 > output/new
+          subfinder -dL hosts.txt  -all | assetfinder -subs-only | httpx -no-fallback -retries 3 > output/new
           cat output/new | anew output/all > output/added-subdomains.txt
           cat output/added-subdomains.txt | notify -slack -slack-webhook-url ${{ secrets.SLACK_WEBHOOK_NEW_SUBDOMAIN }}
         shell: bash
@@ -43,7 +43,7 @@ jobs:
 
       - name: Checks for Sidekiq
         run: |
-          nuclei -l output/all -t ~/nuclei-templates/exposed-panels -retries 5 -nc  | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
+          nuclei -l output/all -t ~/nuclei-templates/exposed-panels -retries 3 -nc  | notify -slack -slack-webhook-url  ${{ secrets.SLACK_TOKEN }}
  
       - name: Commit results to Github
         run: |

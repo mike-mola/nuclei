@@ -1,0 +1,5 @@
+http://clouddo-bot.shopify.io
+https://disco-time-production-unrestrict-y5o4cxyv-apps-b-us-central1-11.shopifycloud.com
+https://monorail-staging-web-apps-b-us-east1-13.shopifycloud.com
+https://shopify-app-store-staging-soni-cpsnhxb5-es-apps-b-us-central1-2.shopifycloud.com
+https://vivian-failover-1.secure-elasticsearch.vivian-failover-1.shopifycloud.com

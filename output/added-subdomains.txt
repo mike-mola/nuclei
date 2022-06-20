@@ -1,0 +1,2 @@
+http://cloud-portal-apps-a-us-east1-13.shopifycloud.com
+http://verification-tool.preprod.cloud.adjust.com

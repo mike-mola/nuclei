@@ -1,1 +1,7 @@
-https://p3arq.kibana.shopifycloud.com
+https://clouddo-bot.shopify.io
+http://docs-explorer.shopifycloud.com
+http://grokt.shopify.io
+http://kafkanav.shopifycloud.com
+http://npm.shopify.io
+http://rg-vanilla-app.shopifycloud.com
+http://ux.shopify.io

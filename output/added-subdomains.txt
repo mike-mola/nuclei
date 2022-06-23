@@ -1,7 +1,5 @@
-https://clouddo-bot.shopify.io
-http://docs-explorer.shopifycloud.com
-http://grokt.shopify.io
-http://kafkanav.shopifycloud.com
-http://npm.shopify.io
-http://rg-vanilla-app.shopifycloud.com
-http://ux.shopify.io
+http://cloud-portal-core-can-na-ne1-rp69.shopifycloud.com
+https://event-microsite.shopifycloud.com
+https://kenny-slm.kibana.kenny-slm.shopifycloud.com
+http://research.shopify.io
+http://vault-staging.shopify.io

@@ -1,1 +1,5 @@
-https://cloud-portal-core-us-ce1-se00.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-ha29.shopifycloud.com
+http://cloud-portal-core-n1-us-ea1-gb96.shopifycloud.com
+https://newson-test.shopifycloud.com
+https://trainingapp.adjust.com
+https://viwb6.kibana.shopifycloud.com

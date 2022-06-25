@@ -1,2 +1,1 @@
-https://helpdesk-production-web-api-apps-b-us-east1-12.shopifycloud.com
-https://thanos-global-observability-thanos-us-ea1-zy70.shopifycloud.com
+https://cloud-portal-apps-core-na-ne1-10.shopifycloud.com

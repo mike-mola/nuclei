@@ -1,1 +1,2 @@
-https://plus-website-staging4-web-apps-b-us-east1-12.shopifycloud.com
+https://helpdesk-production-web-api-apps-b-us-east1-12.shopifycloud.com
+https://thanos-global-observability-thanos-us-ea1-zy70.shopifycloud.com

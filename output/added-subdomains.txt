@@ -1,1 +1,1 @@
-https://monorail-staging-next.pepto-connector.shopifycloud.com
+http://moi-or-repo.shopifycloud.com

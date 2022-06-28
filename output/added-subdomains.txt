@@ -1,3 +1,0 @@
-https://grid-next-production-unrestricted-web-apps-b-us-central1-12.shopifycloud.com
-https://thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com
-https://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-23p4.shopifycloud.com

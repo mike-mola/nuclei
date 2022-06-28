@@ -1,1 +1,2 @@
-http://speedscope.shopify.io
+http://metadata-catalog-staging-se0h.shopifycloud.com
+http://monorail-staging-next.pepto-connector.shopifycloud.com

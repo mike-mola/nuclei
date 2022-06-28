@@ -1,1 +1,1 @@
-https://receiver-query-prom-staging-us-ce1-vr63.shopifycloud.com
+http://speedscope.shopify.io

@@ -9131,3 +9131,6 @@ https://receive-observability-prom-staging-us-ce1-vr63.shopifycloud.com
 https://sec-logs.shopify.io
 https://flow-benchmark.shopifycloud.com
 https://receiver-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com
+https://cloud-portal-core-n1-us-ea1-yr17.shopifycloud.com
+https://rb-flink-prototype.mvp.shopifycloud.com
+https://shop-figma-webhooks.shopifycloud.com

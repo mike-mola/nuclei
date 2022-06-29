@@ -1,6 +1,2 @@
-http://courier-test-inbound.shopifycloud.com
-https://elasticsearch.kibana.i0.staging-unrestricted-f4yx.dovetale-api.shopifycloud.com
-https://emex-net-basic-app-production--rhj5jkup-es-apps-b-us-central1-2.shopifycloud.com
-https://m3aggregator-observability-thanos-us-ea1-zy70.shopifycloud.com
-https://receive-observability-prom-staging-us-ce1-vr63.shopifycloud.com
-https://sec-logs.shopify.io
+https://flow-benchmark.shopifycloud.com
+https://receiver-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com

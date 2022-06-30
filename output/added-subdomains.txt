@@ -1,3 +1,4 @@
-http://edge-cache-service-production-unrestricted-eyno-i1.shopifycloud.com
-http://shopify-ranger.shopifycloud.com
-http://superset.shopifycloud.com
+https://es7.es-core-us-ea1-wk66.shopify-core-elasticsearch.shopifycloud.com
+http://lightdash-exp.shopifycloud.com
+http://newrecruits.shopify.io
+https://receiver-query-grpc-prometheus-us-ea1-ln22.shopifycloud.com

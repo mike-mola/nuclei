@@ -1,6 +1,3 @@
-https://arrive-renaming-test.shopifycloud.com
-http://elasticsearch.kibana.i0.staging-unrestricted-f4yx.dovetale-api.shopifycloud.com
-http://go-email-practice.shopifycloud.com
-https://m3aggregator-prometheus-eu-we1-bx03.shopifycloud.com
-https://moi-boston-example-fastapi-staging.shopifycloud.com
-https://webhooks-demo.kibana.i0.production-unrestricted-23p4.webhooks-demo.shopifycloud.com
+https://conductor-staging.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.dovetale-api-staging-unrestricted-f4yx.shopifycloud.com
+https://splunk-sh-sec-splunk-us-east4-a-1.shopifycloud.com

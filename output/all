@@ -9146,3 +9146,6 @@ https://receiver-query-prometheus-us-ea1-ln22.shopifycloud.com
 https://customer-events-api.shopifycloud.com
 https://cloud-portal-core-n1-us-ce1-bw65.shopifycloud.com
 https://clusters-experiment.shopifycloud.com
+http://shipit.shopify.io
+https://usage-service-edge-eu-germany.shopifycloud.com
+http://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-23p4.shopifycloud.com

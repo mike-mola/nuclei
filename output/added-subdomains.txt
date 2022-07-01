@@ -1,2 +1,3 @@
-https://cloud-portal-core-n1-us-ce1-bw65.shopifycloud.com
-https://clusters-experiment.shopifycloud.com
+http://shipit.shopify.io
+https://usage-service-edge-eu-germany.shopifycloud.com
+http://webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-23p4.shopifycloud.com

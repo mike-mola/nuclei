@@ -1,1 +1,2 @@
-https://customer-events-api.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-bw65.shopifycloud.com
+https://clusters-experiment.shopifycloud.com

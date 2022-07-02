@@ -1,3 +1,5 @@
-https://conductor-staging.shopifycloud.com
-https://elasticsearch.secure-elasticsearch.dovetale-api-staging-unrestricted-f4yx.shopifycloud.com
-https://splunk-sh-sec-splunk-us-east4-a-1.shopifycloud.com
+https://manual-billing-production-unrest-y6vwn7yj-apps-b-us-central1-11.shopifycloud.com
+http://mrcthms-polaris-tokens-explorer.shopifycloud.com
+http://o11y-playground-service-sandbox.shopifycloud.com
+https://receiver-query-grpc-prom-staging-us-ce1-vr63.shopifycloud.com
+https://shop-email-proxy-staging.shopifycloud.com

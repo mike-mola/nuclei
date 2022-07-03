@@ -1,1 +1,3 @@
-https://mobility-staging-test-app2.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-io98.shopifycloud.com
+https://cluster-registry-experiment.shopifycloud.com
+https://emex-net-basic-app.shopifycloud.com

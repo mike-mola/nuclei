@@ -1,2 +1,4 @@
-https://kszss.kibana.shopifycloud.com
-https://thanos-query-frontend-prometheus-us-ea1-ln22.shopifycloud.com
+http://notary-staging.shopify.io
+http://org-admin-web-staging-ezky.shopifycloud.com
+http://trainingapp.adjust.com
+https://webhooks-demo-elastic.shopifycloud.com

@@ -1,4 +1,2 @@
-http://notary-staging.shopify.io
-http://org-admin-web-staging-ezky.shopifycloud.com
-http://trainingapp.adjust.com
-https://webhooks-demo-elastic.shopifycloud.com
+http://cloud-portal-imagery-us-ea1-fv18.shopifycloud.com
+https://gdpr.tr.adjust.com

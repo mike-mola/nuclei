@@ -1,2 +1,2 @@
-http://cloud-portal-imagery-us-ea1-fv18.shopifycloud.com
-https://gdpr.tr.adjust.com
+https://assets-hydrogen-dogfooding-producti-l4xl33d6-apps-b-us-east1-12.shopifycloud.com
+https://shopify-ranger.shopifycloud.com

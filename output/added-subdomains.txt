@@ -1,0 +1,6 @@
+https://core-na-ne1-es7.es7.es-core-na-ne1-3.elasticsearch.shopifycloud.com
+https://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.atlas-production-unrestricted-2v48.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.emex-net-basic-app-production-unrestricted-od3g.es-apps-b-us-central1-2.kibana.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-ltpw.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com

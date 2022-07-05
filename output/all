@@ -9224,3 +9224,15 @@ http://exp-sample-size-calculator.streamlit-service.shopifycloud.com
 https://partners-es7.partners-production.es-apps-a-us-east1-2.kibana.shopifycloud.com
 https://receive-observability-prometheus-as-se1-wq60.shopifycloud.com
 https://shop-search.shop-search-production-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://arrive-server.arrive-server-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
+https://core-us-central1-es7.es7.es-core-us-central1-4.elasticsearch.shopifycloud.com
+https://core-australia-southeast1-es7.es7.es-core-au-se1-xj61.kibana.shopifycloud.com
+https://elasticsearch.data-portal-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://elasticsearch.shopify-ranger-production-unrestricted-6vdf.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://elasticsearch.courier-audit-production-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.wheeljack-production-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://morgan-test-esi.morgan.es-staging-us-central1-4.kibana.shopifycloud.com
+https://monpliance.monpliance-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://u2-staging-es7.u2-staging.es-apps-b-us-east1-1.kibana.shopifycloud.com

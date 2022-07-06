@@ -1,6 +1,5 @@
-https://cb77n.kibana.shopifycloud.com
-https://core-australia-southeast1-es7.es7.es-core-australia-southeast1-3.elasticsearch.shopifycloud.com
-https://core-us-central1-es7.es7.es-core-us-central1-4.kibana.shopifycloud.com
-http://cronograma-staging.cronograma-staging-unrestricted-hec2.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
-https://stocky-staging-unrestricted-web-apps-b-us-central1-11.shopifycloud.com
-https://thanos-query-frontend-prometheus-as-se1-wq60.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://email.email-staging-unrestricted.es-apps-b-us-central1-2.kibana.shopifycloud.com
+https://handshake-search.handshake-search-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
+https://mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://receiver-query-grpc-prometheus-as-se1-wq60.shopifycloud.com

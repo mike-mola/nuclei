@@ -9302,3 +9302,13 @@ https://theme-store-es6.shopify-theme-store-production.es-apps-a-us-east1-2.elas
 https://u2-production-es7.u2-production.es-apps-b-us-east1-1.kibana.shopifycloud.com
 https://webhook-metrics.partners-production.es-apps-a-us-east1-2.kibana.shopifycloud.com
 https://webhooks-demo.webhooks-demo-production-unrestricted-23p4.es-apps-b-us-central1-2.kibana.shopifycloud.com
+https://customer-data-platform.customer-data-platform-production-query-unrestricted-82mr.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
+https://customer-data-platform.customer-data-platform-staging-query-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
+https://elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://iris-staging.shopifycloud.com
+https://receiver-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com
+https://stock-photos-es6.stock-photos-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://t3mbu.kibana.shopifycloud.com
+https://vivian-failover-1.vivian-failover-1.es-staging-us-central1-4.elasticsearch.shopifycloud.com

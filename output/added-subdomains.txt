@@ -1,6 +1,3 @@
-https://elasticsearch.command-menu-prototype-production-unrestricted-jnzi.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
-https://elasticsearch.command-menu-prototype-production-unrestricted-jnzi.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
-https://email.email-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
-https://exchange-es6.exchange-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
-https://moi-test-ux-sentinel-1.shopifycloud.com
-https://shopify-dev.shopify-dev-staging-unrestricted-4.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://customer-data-platform.customer-data-platform-staging-query-unrestricted.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://james-es-6.kibana.i0.staging-unrestricted.search-platform-staging.shopifycloud.com
+https://wholesale-app-es7.wholesale-app-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com

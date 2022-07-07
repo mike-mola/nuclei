@@ -9324,3 +9324,9 @@ https://wholesale-app-es7.wholesale-app-production.es-apps-a-us-east1-2.elastics
 https://merchant-frustrations.merchant-frustrations-staging-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 http://startup.shopify.io
 https://thanos-query-frontend-prometheus-us-ce1-eb98.shopifycloud.com
+https://bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://customer-data-platform.customer-data-platform-production-query-unrestricted-82mr.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
+https://devicemanager-es6.devicemanager-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://hd-d90-community.shopifycloud.com
+http://hackdays-rails-internal-wellness.shopifycloud.com

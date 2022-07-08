@@ -1,6 +1,1 @@
-https://app-store-staging-es6.shopify-app-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
-https://app-test-es7.ben.es-staging-us-central1-4.elasticsearch.shopifycloud.com
-http://cloud-portal-redis-apps-us-ce1-qa34.shopifycloud.com
-https://handshake-search.handshake-search-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
-https://stock-photos-es6.stock-photos-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
-https://vr-map-webhooks.shopifycloud.com
+https://mlprojects-db.shopifycloud.com

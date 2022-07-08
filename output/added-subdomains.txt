@@ -1,1 +1,3 @@
-https://mlprojects-db.shopifycloud.com
+https://assets-dogfooding.shopifycloud.com
+https://hackdays32-barcodify.shopifycloud.com
+https://poozle.poozle-staging-unrestricted.es-apps-b-us-central1-2.kibana.shopifycloud.com

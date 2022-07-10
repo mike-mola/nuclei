@@ -1,1 +1,2 @@
-http://logs-canada.shopify.io
+http://shop.shopify.io
+http://wholesale-app-es7.wholesale-app-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com

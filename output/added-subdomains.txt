@@ -1,6 +1,1 @@
-https://bundlify.shopifycloud.com
-http://customer-data-platform.customer-data-platform-staging-query-unrestricted.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
-https://hackdays-clockify.shopifycloud.com
-https://merlin-api-hackdays.shopifycloud.com
-https://privacy-portal-prototype.shopifycloud.com
-http://storefront-search-us-central.storefront-search-production-uscentral-unrestricted-uhm1.es-apps-b-us-central1-2.kibana.shopifycloud.com
+http://logs-canada.shopify.io

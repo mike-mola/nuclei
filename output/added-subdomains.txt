@@ -1,4 +1,1 @@
-https://api.creators.shopifycloud.com
-http://merlin-api-hackdays.shopifycloud.com
-https://rg-vanilla-app-clone.shopifycloud.com
-http://shopify-debug.shopify.io
+https://sql-query-contest.shopifycloud.com

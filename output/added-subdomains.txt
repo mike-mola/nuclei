@@ -1,4 +1,2 @@
-https://hack-day-product-live-tracker.shopifycloud.com
-https://merchant-wellness.shopifycloud.com
-https://oxygen-loki-gateway-staging.shopifycloud.com
-https://thanos-query-frontend-prom-staging-us-ce1-vr63.shopifycloud.com
+http://nextjs-admin-starter.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-kqzf.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com

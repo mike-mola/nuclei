@@ -1,2 +1,3 @@
-https://domains-poller.shopifycloud.com
-http://elasticsearch.metadata-catalog-staging-unrestricted-se0h.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.atlas-staging-unrestricted-ks35.shopifycloud.com
+https://lukewarm-seat-slack-bot.shopifycloud.com
+https://softcoded-urls.shopifycloud.com

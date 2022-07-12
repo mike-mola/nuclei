@@ -1,3 +1,5 @@
-http://elasticsearch.secure-elasticsearch.atlas-staging-unrestricted-ks35.shopifycloud.com
-https://lukewarm-seat-slack-bot.shopifycloud.com
-https://softcoded-urls.shopifycloud.com
+https://isaac-python-fastapi-f.shopifycloud.com
+https://isaac-python-fastapi-g.shopifycloud.com
+https://isaac-python-service.shopifycloud.com
+https://keto.shopifycloud.com
+http://unicorn.shopify.io

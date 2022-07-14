@@ -1,2 +1,11 @@
-http://sec-logs.shopify.io
-https://trickle-production-unrestricted-8v1d.shopifycloud.com
+https://cronograma-production.cronograma-production-unrestricted.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+http://core-na-ne1-es7.es7.es-core-na-ne1-3.kibana.shopifycloud.com
+https://elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://elasticsearch.data-portal-production.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+https://elasticsearch.dovetale-api-production-unrestricted-yae0.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted-pt50.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+https://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+https://elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+http://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-east1-1.kibana.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-ea1-on43.kibana.shopifycloud.com

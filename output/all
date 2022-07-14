@@ -9787,3 +9787,5 @@ https://metrics-by-sq.streamlit-service.shopifycloud.com
 http://devicemanager-es6.devicemanager-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 http://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.kibana.shopifycloud.com
 http://shopify-dev.shopify-dev-staging-unrestricted-6.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+http://sec-logs.shopify.io
+https://trickle-production-unrestricted-8v1d.shopifycloud.com

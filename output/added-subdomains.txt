@@ -1,2 +1,0 @@
-http://business-platform.business-platform-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
-https://esinstance-leila9.secure-elasticsearch.leila3.shopifycloud.com

@@ -1,0 +1,6 @@
+https://annotation-cycle-management.shopifycloud.com
+http://elasticsearch.command-menu-prototype-production-unrestricted-jnzi.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com
+https://github-dev-metrics-extractor.shopifycloud.com
+https://thyme-production-unrestricted-web-apps-b-us-central1-12.shopifycloud.com
+http://themes.shopify.io

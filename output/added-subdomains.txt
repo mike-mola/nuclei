@@ -1,4 +1,4 @@
-https://devicemanager-es6.devicemanager-production.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
-http://glyi4.kibana.shopifycloud.com
-https://hackdays-learning.shopifycloud.com
-https://mobile-rn-coverage.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted-pt50.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+http://kalindu-test-app-2.shopifycloud.com
+https://security-reviews-manager.shopifycloud.com
+http://shopifystatus.shopify.io

@@ -1,2 +1,3 @@
-https://esinstance-leila8.secure-elasticsearch.leila2.shopifycloud.com
-https://shop-the-look-admin.shopifycloud.com
+https://cloud-portal-apps-sandbox1-us-ea1-sg02.shopifycloud.com
+https://plinko.shopify.io
+https://test-tmc.shopifycloud.com

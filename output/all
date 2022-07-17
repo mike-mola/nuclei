@@ -9826,3 +9826,14 @@ https://plinko.shopify.io
 https://test-tmc.shopifycloud.com
 http://cluster-registry-experiment.shopifycloud.com
 https://statsd-emitter.shopifycloud.com
+https://cloud-portal-apps-eu-we3-aq69.shopifycloud.com
+http://core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com
+https://elasticsearch.dovetale-api-production-unrestricted-yae0.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://elasticsearch.command-menu-prototype-production-unrestricted-jnzi.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+http://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://esinstance-leila8.leila2.es-staging-us-central1-4.elasticsearch.shopifycloud.com
+https://esinstance-leila9.leila3.es-staging-us-central1-4.elasticsearch.shopifycloud.com
+https://esinstance-leila7.leila1.es-staging-us-central1-4.elasticsearch.shopifycloud.com
+http://theme-store-es6-staging.shopify-theme-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com

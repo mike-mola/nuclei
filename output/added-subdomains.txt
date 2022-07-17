@@ -1,2 +1,0 @@
-http://cluster-registry-experiment.shopifycloud.com
-https://statsd-emitter.shopifycloud.com

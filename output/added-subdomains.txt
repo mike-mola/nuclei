@@ -1,1 +1,2 @@
-http://plinko-staging.shopify.io
+http://hack-day-product-live-tracker.shopifycloud.com
+http://shop-docs.docs.shopify.io

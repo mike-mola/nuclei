@@ -1,2 +1,2 @@
-http://discourse.shopify.io
-https://profiling-ruby-test-app-staging.shopifycloud.com
+http://esinstance-leila8.leila2.es-staging-us-east1-3.elasticsearch.shopifycloud.com
+https://web.data-arma-production.shopifycloud.com

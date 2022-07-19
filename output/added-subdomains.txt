@@ -1,1 +1,2 @@
-https://cloud-portal-es-apps-a-us-ce1-pa35.shopifycloud.com
+http://discourse.shopify.io
+https://profiling-ruby-test-app-staging.shopifycloud.com

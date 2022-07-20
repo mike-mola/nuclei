@@ -1,0 +1,6 @@
+https://app-store-staging-es6.shopify-app-store-staging.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+http://hackdays-learning.shopifycloud.com
+https://merchant-frustrations.merchant-frustrations-staging-unrestricted.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://shopeto-hack-days.shopifycloud.com
+https://soleil-staging.shopifycloud.com
+https://trickle-production-unrestricted-9p3g.shopifycloud.com

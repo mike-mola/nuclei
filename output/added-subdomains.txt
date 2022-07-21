@@ -1,3 +1,3 @@
-https://discovery-app-staging-2.shopifycloud.com
-https://oxygen-cortex-gateway.shopifycloud.com
-https://shopify-dev.shopify-dev-staging-unrestricted-6.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://api.data-arma-production.shopifycloud.com
+https://monpliance.monpliance-staging.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://routing-foundations-misc-alt.shopifycloud.com

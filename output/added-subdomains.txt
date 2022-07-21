@@ -1,4 +1,7 @@
-https://charlotte-test.shopifycloud.com
-https://cloud-portal-core-n1-us-ea1-bo12.shopifycloud.com
-https://elasticsearch.metadata-catalog-staging-unrestricted-se0h.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
-http://upgrow.shopify.io
+https://asynqmon.data-arma-production.shopifycloud.com
+http://handshake-search.handshake-search-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
+https://mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://russbot-elasticsearch.russbot-staging.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
+https://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
+http://source-code-events.shopifycloud.com
+https://wholesale-app-es7.wholesale-app-staging.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com

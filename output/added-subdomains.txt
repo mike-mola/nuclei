@@ -1,6 +1,0 @@
-https://davidjrepo.shopifycloud.com
-https://hurd-test.shopifycloud.com
-https://james-es-6.secure-elasticsearch.james-test.shopifycloud.com
-https://monpliance.monpliance-production.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
-https://rewardswallet.shopifycloud.com
-https://shopify-dev.shopify-dev-staging-unrestricted-dgsb.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com

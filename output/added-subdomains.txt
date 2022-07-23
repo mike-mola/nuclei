@@ -1,1 +1,4 @@
-https://trickle-staging-unrestricted-2em8.shopifycloud.com
+https://adam-liang.shopifycloud.com
+https://customer-behaviour-api-staging.shopifycloud.com
+https://fluffy-kafka-go.shopifycloud.com
+https://patrick-test.shopifycloud.com

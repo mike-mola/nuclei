@@ -1,7 +1,2 @@
-https://clouddov3-beta.shopify.io
-http://conductor-staging-unrest-x3afrtyg-data-platform-a-us-central1-1.shopifycloud.com
-https://march-road.shopifycloud.com
-https://orchestrator-staging-api.shopifycloud.com
-https://thanos-query-thanos-staging-us-ea1-sr71.shopifycloud.com
-https://thanos-query-grpc-thanos-us-ce1-lm05.shopifycloud.com
-https://verification-tool-cm.preprod.cloud.adjust.com
+https://buzzer.shopifycloud.com
+http://handshake-search-staging.handshake-search-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com

@@ -1,6 +1,4 @@
-https://cloud-portal-core-n1-us-ea1-jc83.shopifycloud.com
-https://coolcats.shopifycloud.com
-https://customer-behaviour-api.shopifycloud.com
-https://isaac-moi-test-f.shopifycloud.com
-https://meero-code.shopifycloud.com
-https://shop-discovery-staging.shop-discovery-pipeline-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
+https://adam-workshop-app.shopifycloud.com
+https://extraordinary-app.shopifycloud.com
+https://soleil.shopifycloud.com
+https://suspicious-leads-dashboard.shopifycloud.com
